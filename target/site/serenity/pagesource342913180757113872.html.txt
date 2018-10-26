@@ -1,0 +1,1581 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es" xmlns:fb="http://ogp.me/ns/fb#"><head id="head">
+    
+    <title>Inmuebles  en Venta en Antioquia - Búsqueda por mapa</title>   
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="language" content="es-CO" />
+    <meta http-equiv="content-language" content="es-co" />
+    <meta name="distribution" content="global" />
+    <meta name="resource-type" content="document" />
+    <meta name="Audience" content="All" />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    
+
+    
+    <meta property="fb:admins" content="100000283157257" />
+    <meta property="og:site_name" content="www.fincaraiz.com.co" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_LA" />
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" /> 
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="https://www.fincaraiz.com.co/App_Theme/images/landig_page/landing_apps/Logo_app.png" /> 
+
+    
+    <style type="text/css">
+        div.holder
+        {
+            display: table-cell;
+            width: 114px;
+            height: 66px;
+            text-align: center;
+            vertical-align: middle; /*background: #FFF;*/ /*border:1px solid #ccc;*/
+        }
+    </style>
+    <!--[if IE]>
+    <style type="text/css">
+
+    /* y aquí es donde se debe establecer el código para IE */
+
+    #edge {
+    display: inline-block;
+    width: 0;
+    *height: 100%;
+    vertical-align: middle;
+    }
+
+    #container {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    }
+
+    </style>
+    <![endif]-->
+
+    <link href="/CSSScript.ashx?Version=131847821774414655&amp;type=CSS&amp;fileSet=header,popups,normalize,mainNew,helper,font-awesomeNew,footer,map,detalle,AlertNew" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-M59GSFH&amp;t=tealium_0&amp;cid=1756491385.1540481811"></script><script src="https://connect.facebook.net/signals/config/855921464443427?v=2.8.30&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.google-analytics.com/analytics.js" id="tealium-tag-7110"></script><script type="text/javascript" async="" id="tealium-tag-3005" src="https://sb.scorecardresearch.com/c2/10424679/cs.js"></script><script type="text/javascript" async="" charset="utf-8" src="//www.googleadservices.com/pagead/conversion_async.js" id="utag_7"></script><script type="text/javascript" async="" charset="utf-8" src="//www.fincaraiz.com.co/App_Theme/scripts/xtcore.js" id="utag_25"></script><script type="text/javascript" async="" charset="utf-8" src="//sdk.pulse.schibsted.com/pulse.min.js" id="utag_45"></script><script src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.js" type="text/javascript" async=""></script><script src="/CSSScript.ashx?type=JS&amp;fileSet=jquery&amp;min=0" type="text/javascript"></script>
+    <script src="/CSSScript.ashx?Version=131847821880494655&amp;type=JS&amp;fileSet=AlertNew,util,input,tabs,cookie,usorigin,browserstorage" type="text/javascript"></script>
+    <script src="/CSSScript.ashx?Version=131847821880494655&amp;type=JS&amp;fileSet=,Gallery,Advert,validation,maphighlightv2,preload" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        var AjaxEnabled = toBoolean("True")
+        var sPhotosUrl = 'https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/';
+        var sLogosUrl = 'https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/Logos/';
+        var Origin = 40;
+        var DateTimeMin = '1/1/0001 12:00:00 AM';
+        var utag_data = '';
+        var OLAPContactType={AdvertViewPhone:3001,AdvertContact:3002,ClientVisits:3003,ClientViewPhone:3004,ClientContact:3005,AdvertContact_DetailMain:3006,AdvertContact_DetailGridON:3007,AdvertContact_DetailPriceAlert:3008,AdvertContact_DetailCallback:3009,AdvertContact_DetailButtonZoneInfo:3010,AdvertContact_DetailMap:3011,AdvertContact_Results:3012,AdvertContact_ResultsMicrosite:3013,AdvertContact_Compare:3014,AdvertContact_SuperOffer:3015,AdvertContact_DetailButtonMain:3016,AdvertContact_Whatsapp:3017,AdvertContact_ViewPhone:3018};
+    </script>
+<script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.25.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_25"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.26.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_26"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.42.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_42"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.7.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_7"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.70.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_70"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1012702328/?random=1540481817714&amp;cv=9&amp;fst=1540481817714&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=659255991&amp;u_h=768&amp;u_w=1366&amp;u_ah=768&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;sendb=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.fincaraiz.com.co%2FMapV2.aspx%3Ft%3D1%26l1%3D55%26l2%3D0%26c1%3D0%26pc%3D1&amp;ref=https%3A%2F%2Fwww.fincaraiz.com.co%2F&amp;tiba=Inmuebles%20en%20Venta%20en%20Antioquia%20-%20B%C3%BAsqueda%20por%20mapa&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+<body id="body">
+    
+<script type="text/javascript">
+    utag_data = JSON.parse('{"environment":"Prod","page_type":"Unspecified","page_type_id":"0","event_name":"/MapV2.aspx","visit_origin":"130","Continent_Code":"SA","Continent_Name":"South America","Country_IsoCode":"CO","Country_Name":"Colombia","Traits_IPAddress":"181.129.9.50"}');
+</script>
+
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+    (function (a, b, c, d) {
+        a = '//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.js';
+        b = document; c = 'script'; d = b.createElement(c); d.src = a; d.type = 'text/java' + c; d.async = true;
+        a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
+    })();
+
+    var TealiumEventHandler = function (event, data) {
+        var dataTealium = data;
+        try 
+        {
+            if (event.toLowerCase() == "view") {
+                utag.view(dataTealium);
+                $.each(dataTealium, function (index, value) { utag_data[index] = value; });
+            }
+            if (event.toLowerCase() == "click") {
+                utag.link(dataTealium);
+                $.each(dataTealium, function (index, value) { utag_data[index] = value; });
+            }
+            if (event.toLowerCase() == "hit") {
+                utag.track({ event: 'hit', data: dataTealium });
+            }
+        }
+        catch (ex)
+        {
+            console.log(ex);
+        }
+    }
+
+    function trackingView(page, _eventHandler) {
+        try {
+            var dataTealium = { event_name: page, EventHandler: _eventHandler };
+
+            TealiumEventHandler("view", dataTealium);
+        }
+        catch (ex) {
+        }
+    }
+
+    function trackingClick(page, _eventHandler) {
+        try {
+            var dataTealium = {event_name: page, EventHandler: _eventHandler};
+            
+            TealiumEventHandler("click", dataTealium);
+        }
+        catch (ex) {
+        }
+    }
+
+    function trackingHit(page, _eventHandler) {
+        try {
+            if (typeof (page) == 'undefined' || page == null) {
+                page = utag_data.event_name;
+            }
+
+            var dataTealium = { event_name: page, EventHandler: _eventHandler, environment: utag_data.environment };
+
+            TealiumEventHandler("hit", dataTealium);
+        }
+        catch (ex) {
+        }
+    }
+
+    function TealiumMessage(message) {
+        var dataTealium;
+        try {
+            dataTealium = {
+                EventHandler: 'SpecificTracking',
+                event_name: utag_data.page_type,
+                error_msg: (utag_data.page_type.sanitize() + "-" + message.removeAccents().replace(/\s/g, '_')), 
+                environment: utag_data.environment
+            };
+
+            TealiumEventHandler("hit", dataTealium);
+        }
+        catch (cvex) {
+        }
+    }
+
+    function TealiumGroupPacks(content) {
+        var dataTealium;
+        try {
+            dataTealium = {
+                EventHandler: 'SpecificTracking',
+                event_name: utag_data.page_type,
+                group_packs: (utag_data.page_type.sanitize() + "-GroupPacks_" + content.removeAccents().replace(/\s/g, '_')),
+                environment: utag_data.environment
+            };
+
+            TealiumEventHandler("hit", dataTealium);
+        }
+        catch (cvex) {
+        }
+    }
+
+    function TealiumClick(nameAttribute, valueAttribute, message) {
+        var obj = searchElementTealium(nameAttribute, valueAttribute, message);
+
+        for (var key in obj) {
+            if (obj[key] !== null) {
+                addClickTealium(obj[key], function () { trackingClick(message, 'SpecificTracking'); });
+            }
+        }
+    }
+
+    var addClickTealium = function (objElement, objFunction) {
+        if (objElement.addEventListener) {  // all browsers except IE before version 9
+            objElement.addEventListener("click", objFunction, false);
+        } else {
+            if (objElement.attachEvent) {   // IE before version 9
+                objElement.attachEvent("click", objFunction);
+            }
+        }
+    }
+
+    var searchElementTealium = function (nameAttribute, valueAttribute, message) {
+        var obj = {};
+
+        switch (nameAttribute.toLowerCase().trim()) {
+            case "id":
+                var elementCollection = new Array();
+                var allElements = document.getElementsByTagName("*");
+                for (i = 0; i &lt; allElements.length; i++) {
+                    if (allElements[i].id == valueAttribute)
+                        obj[valueAttribute + i.toString()] = allElements[i];
+                }
+                break;
+            case "name":
+                if (document.getElementsByName(valueAttribute) !== null) {
+                    obj[valueAttribute] = document.getElementsByName(valueAttribute);
+                }
+                break;
+            case "class":
+                if (document.getElementsByClassName(valueAttribute) !== null) {
+                    var allElements = document.getElementsByClassName(valueAttribute);
+                    for (i = 0; i &lt; allElements.length; i++) {
+                        obj[valueAttribute + i.toString()] = allElements[i];
+                    }
+                }
+                break;
+            default:
+                var All = document.getElementsByTagName('*');
+                var cont = 0;
+
+                for (var i = 0; i &lt; All.length; i++) {
+                    if (All[i].getAttribute(nameAttribute) == valueAttribute) {
+                        obj[cont] = All[i];
+                        cont++;
+                    }
+                }
+                break;
+        }
+
+        return obj;
+    }
+
+    var TealiumSetConversion = function (tag, idConversion, emailConversion, content_type, content_ids, value, content_name, content_category) {
+        //Tags personalizados
+        if (typeof (TealiumConversion) !== 'undefined') {
+            TealiumConversion(tag, idConversion, emailConversion, content_type, content_ids, value, content_name, content_category);
+        }
+    }
+
+    var FacebookPixel = function () {
+        var content_ids = []
+        var id = $("#ctl00_phMasterPage_GroupPacks_hddGroupPack").val();
+        if (typeof (id) !== 'undefined' &amp;&amp; id !== '') {
+            var title = $("#GroupPacks" + id).attr("text");
+            var price = $("#Group_" + id + " .price_content h4").html().replace(/\t/g, '').replace(/(\r\n|\n|\r)/g, "").replace("$", '').trim();
+
+            content_ids.push(id)
+            TealiumSetConversion('FacebookPixel', null, null, title, content_ids, price);
+        }
+    }
+
+    var FacebookPixelLead = function (content_name) {
+        var content_category = utag_data.ad_type_id + " : " + utag_data.ad_type + " &gt; " + utag_data.category_level1_id + " : " + utag_data.category_level1
+
+        TealiumSetConversion('FacebookPixelLead', null, null, null, null, 1, content_name, content_category);
+    }
+
+    var RegisterViewBasket = function ()
+    {
+        var Product_arrayPrice = []
+        var Product_arrayPack = []
+        var Product_arrayQuan = []
+        $.each($(".checked"), function (key, value) {
+            var code = $(value).attr("id").replace('price_', '');
+            Product_arrayPrice.push($("#priceValue_" + code).val().replace("$ ",""));
+            var pack = $("#packValue_" + code).val();
+            Product_arrayPack.push(pack);
+            var quan = $("[pack-value*='" + pack + "|']:first").text();
+            Product_arrayQuan.push(quan.substring(0, quan.indexOf(" ")));
+        });
+
+        utag_data.lst_products_id = Product_arrayPack;
+        utag_data.lst_products_price = Product_arrayPrice;
+        utag_data.lst_products_quan = Product_arrayQuan;
+    }
+
+    var RegisterViewBasket = function () {
+        var Product_arrayPrice = []
+        var Product_arrayPack = []
+        var Product_arrayQuan = []
+        $.each($(".checked"), function (key, value) {
+            var code = $(value).attr("id").replace('price_', '');
+            Product_arrayPrice.push($("#priceValue_" + code).val().replace("$ ", ""));
+            var pack = $("#packValue_" + code).val();
+            Product_arrayPack.push(pack);
+            var quan = $("[pack-value*='" + pack + "|']:first").text();
+            Product_arrayQuan.push(quan.substring(0, quan.indexOf(" ")));
+        });
+
+        utag_data.lst_products_id = Product_arrayPack;
+        utag_data.lst_products_price = Product_arrayPrice;
+        utag_data.lst_products_quan = Product_arrayQuan;
+
+        //trackingHit(null, 'SpecificTracking');
+    }
+
+    var RegisterViewItem = function (product) {
+        var code = product.replace("Check_","");
+        utag_data.product_id = $("#packValue_" + code).val();
+        trackingHit(null, 'SpecificTracking');
+    }
+</script>
+
+    <div id="Master_728x90"></div>
+          
+        <div class="page">                  
+            <!-- TOP PUBLICITY-->
+            
+            
+            
+                <!-- Area de Gestión - Botón publicar inmueble -->
+                
+
+<script>
+    var RegisteredClientId = 0;
+
+    function GetValueJson(response, i, length) {
+        var responseTmp = response.substring(i + length);
+        var lengthVar = responseTmp.indexOf(";");
+        var value = responseTmp.substring(0, lengthVar);
+        if (value.indexOf("[]") == -1)
+            return $.parseJSON(value);
+        else
+            return [];
+    }
+
+    //Inicialiaza los items de favoritos.
+    function StartFavoritesAdverts(response) {
+        setTimeout(function () {
+
+            if (typeof LaunchFavorites !== "undefined") {
+                i = response.indexOf("_favoriteAdverts=[]");
+                if (i == -1)
+                {
+                    i = response.indexOf("_favoriteAdverts=[");
+                    _favoriteAdverts = GetValueJson(response, i, 17);
+                }
+
+                if (typeof LoadGridFavorites !== "undefined")
+                    LoadGridFavorites(1);
+                else 
+                    LaunchFavorites();
+
+            }
+
+        }, 300);
+    }
+
+    function LoadHeaderASync() {
+        jQuery.ajax({
+            cache: false,
+            type: "GET",
+            url: "/HeaderV2.ashx?ButtonPublish=True&amp;Management=True&amp;LogoSize=1&amp;SocialMedia=False&amp;ClientId=",
+            dataType: "html",
+            success: function (response) {
+                $("#THV2").empty();
+                var node = document.getElementById('HeaderV2');
+                if (node != null) {
+                    node.parentNode.removeChild(node);
+                }
+
+                StartFavoritesAdverts(response);
+
+                $("#THV2").append(response);
+
+            }
+        });
+    }
+
+    LoadHeaderASync();
+    
+</script>
+
+<div id="THV2">
+
+
+
+
+<div id="HeaderV2" class="Header-PublishButton">
+    
+
+    <div class="header header1" itemscope="" itemtype="http://schema.org/WPHeader">
+        <div class="fincaraiz-branding">
+            <a class="sm-fincaraiz-logo left img_print" href="/">
+                <div class="compound-logo"></div>
+            </a>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    
+    <div class="header">
+        <!-- Area de Gestión - Botón publicar inmueble -->
+        <div class="nav no_print">
+            <div class="user-area">
+                
+
+<ul class="left link-user">
+    <li class="li-user" style="display:none">
+        
+        
+    </li>
+    
+            <li class="li-user">
+                
+                <a href="/client/Client.aspx" class="vinculo" title="Gestión personal">Regístrate <i style="display:none" class="fa fa-sort-down"></i></a>
+                
+            </li>
+        
+            <li class="li-user">
+                <img src="/App_Theme/images/user-shape.png" style="margin: -1pt;" width="auto" height="auto" />
+                <a href="/client/Client.aspx" class="vinculo" title="Gestión personal">Ingresa <i style="display:none" class="fa fa-sort-down"></i></a>
+                
+            </li>
+        
+</ul>
+
+
+
+            </div>
+        </div>
+    </div>
+    
+    <div class="PublishButton">
+        <a id="btnPriceAlert" class="button_resaltadoProm" onclick="return trackingClick(utag_data.event_name + ' - Boton Publicar','SpecificTracking')" href="/anuncios-clasificados-gratis-publicar-inmueble.aspx" title="Publique su inmueble">Publica GRATIS* en 1 paso
+        </a>
+    </div>
+    
+</div>
+</div>
+
+
+            
+            <!--MASTER CONTENT-->
+           <div> 
+    <form name="aspnetForm" method="post" action="./MapV2.aspx?t=1&amp;l1=55&amp;l2=0&amp;c1=0&amp;pc=1" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDcwODU1NDA1ZGQonG0BxkfOlcCN+PyD1RFHzcXV8Q==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="375BAC5E" />
+</div>
+    <div class="left space_7">
+        <div class="breadcrumbs space_7">
+            
+<div>
+    Está en: <b>
+     
+            <a href="/">Inicio</a> / 
+        
+        
+    <a>Mapa De Antioquia</a></b>
+</div>
+
+        </div>
+    </div>
+    <div class="content-mapa">
+        <div class="title">
+            43.729
+            Inmuebles 
+            en
+            Venta
+            en
+            Antioquia</div>
+        <div class="content">
+            
+            <div><h2>Inmuebles en:</h2></div>
+            <div class="link ThinVerticalScroll" style="max-height: 430px;height: 430px">
+                    
+                            
+                            <div>
+                                <a href="/vivienda/venta/medellin/" class="vinculo nopadding">
+                                    Medellín</a><span class="counter"> (22523)</span></div>
+                        
+                            
+                            <div style="margin-left:20px;">
+                                <a href="/vivienda/venta/suroriente/medellin/" class="vinculo nopadding">
+                                    SurOriente</a><span class="counter"> (8069)</span></div>
+                        
+                            
+                            <div style="margin-left:20px;">
+                                <a href="/vivienda/venta/occidente/medellin/" class="vinculo nopadding">
+                                    Occidente</a><span class="counter"> (2844)</span></div>
+                        
+                            
+                            <div style="margin-left:20px;">
+                                <a href="/vivienda/venta/suroccidente/medellin/" class="vinculo nopadding">
+                                    SurOccidente</a><span class="counter"> (2756)</span></div>
+                        
+                            
+                            <div style="margin-left:20px;">
+                                <a href="/vivienda/venta/noroccidente/medellin/" class="vinculo nopadding">
+                                    NorOccidente</a><span class="counter"> (2409)</span></div>
+                        
+                            
+                            <div style="margin-left:20px;">
+                                <a href="/vivienda/venta/centro/medellin/" class="vinculo nopadding">
+                                    Centro</a><span class="counter"> (1668)</span></div>
+                        
+                            
+                            <div style="margin-left:20px;">
+                                <a href="/vivienda/venta/nororiente/medellin/" class="vinculo nopadding">
+                                    NorOriente</a><span class="counter"> (1074)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/envigado/" class="vinculo nopadding">
+                                    Envigado</a><span class="counter"> (6611)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/sabaneta/" class="vinculo nopadding">
+                                    Sabaneta</a><span class="counter"> (3313)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/bello/" class="vinculo nopadding">
+                                    Bello</a><span class="counter"> (1835)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/rionegro/" class="vinculo nopadding">
+                                    Rionegro</a><span class="counter"> (1790)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/otros-municipios/antioquia/" class="vinculo nopadding">
+                                    Otros Municipios</a><span class="counter"> (1519)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/itagui/" class="vinculo nopadding">
+                                    Itaguí</a><span class="counter"> (1297)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/la-estrella/" class="vinculo nopadding">
+                                    La Estrella</a><span class="counter"> (1160)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/el-retiro/" class="vinculo nopadding">
+                                    El Retiro</a><span class="counter"> (868)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/la-ceja/" class="vinculo nopadding">
+                                    La Ceja</a><span class="counter"> (700)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/guarne/" class="vinculo nopadding">
+                                    Guarne</a><span class="counter"> (396)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/santa-fe-de-antioquia/" class="vinculo nopadding">
+                                    Santa Fé de Antioquia</a><span class="counter"> (359)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/copacabana/" class="vinculo nopadding">
+                                    Copacabana</a><span class="counter"> (296)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/girardota/" class="vinculo nopadding">
+                                    Girardota</a><span class="counter"> (170)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/san-jeronimo/" class="vinculo nopadding">
+                                    San Jerónimo</a><span class="counter"> (158)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/barbosa/antioquia/" class="vinculo nopadding">
+                                    Barbosa</a><span class="counter"> (139)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/marinilla/" class="vinculo nopadding">
+                                    Marinilla</a><span class="counter"> (128)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/caldas/antioquia/" class="vinculo nopadding">
+                                    Caldas</a><span class="counter"> (125)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/llano-grande/" class="vinculo nopadding">
+                                    Llano Grande</a><span class="counter"> (118)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/guatape/" class="vinculo nopadding">
+                                    Guatapé</a><span class="counter"> (107)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/san-antonio-de-pereira/" class="vinculo nopadding">
+                                    San Antonio de Pereira</a><span class="counter"> (53)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/san-antonio-de-prado/" class="vinculo nopadding">
+                                    San Antonio de Prado</a><span class="counter"> (45)</span></div>
+                        
+                            
+                            <div>
+                                <a href="/vivienda/venta/caucasia/" class="vinculo nopadding">
+                                    Caucasia</a><span class="counter"> (19)</span></div>
+                        
+            </div>
+            
+            <div class="mapa">
+                
+<div id="backCanvas" style="display: block; background: url(&quot;https://www.fincaraiz.com.co/App_Theme/images/maps/antioquia.gif&quot;); position: relative; padding: 0px; width: 400px; height: 400px;"><canvas style="width: 400px; height: 400px; position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px;" height="400" width="400"></canvas><img id="imgMap" src="/App_Theme/images/maps/antioquia.gif" border="0" usemap="#Map" alt="" class="maphighlighted" style="opacity: 0; position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px;" /></div>
+<map id="Map" name="Map" binding="">
+    
+            
+            <area href="/Vivienda/venta/nororiente/medellin/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500006|5500103||||||||||||||||||1||griddate desc||||||" text="1074 inmuebles en NorOriente" coords="57,158,63,151,66,142,67,133,73,124,78,119,83,114,88,117,93,114,105,114,113,118,119,122,121,115,127,114,133,116,138,113,144,114,147,120,154,122,156,129,165,124,166,117,173,119,180,115,186,122,192,123,202,116,203,110,200,104,203,98,213,93,221,93,225,105,224,113,224,120,228,122,228,140,220,139,221,145,226,147,226,155,227,160,235,164,243,155,249,159,248,171,242,175,232,174,222,175,214,175,215,168,198,154,189,161,177,152,174,158,167,163,155,158,131,185,116,181,108,176,100,172,90,167,80,160,71,157" shape="poly" image="/App_Theme/images/maps/medellin.gif" target="" value="5500103" name="NorOriente" level="2" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/centro/medellin/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500006|5500101||||||||||||||||||1||griddate desc||||||" text="1668 inmuebles en Centro" coords="132,182,156,158,167,164,175,153,188,162,199,155,215,167,213,175,226,171,232,173,218,192,207,195,184,203,160,190" shape="poly" image="/App_Theme/images/maps/medellin.gif" target="" value="5500101" name="Centro" level="2" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/suroriente/medellin/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500006|5500102||||||||||||||||||1||griddate desc||||||" text="8069 inmuebles en SurOriente" coords="217,195,231,175,243,176,249,172,249,159,244,154,252,146,251,137,258,137,270,140,275,144,296,152,303,150,311,156,315,155,320,157,318,161,326,161,328,172,325,179,322,183,321,189,315,200,309,204,302,210,282,203" shape="poly" image="/App_Theme/images/maps/medellin.gif" target="" value="5500102" name="SurOriente" level="2" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/noroccidente/medellin/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500006|5500104||||||||||||||||||1||griddate desc||||||" text="2409 inmuebles en NorOccidente" coords="53,155,53,171,51,175,57,183,56,191,57,198,58,208,58,215,62,216,66,213,69,210,72,213,75,215,81,215,88,221,86,225,89,234,94,240,96,251,92,257,90,261,103,276,107,281,109,289,112,294,120,292,124,287,124,260,128,252,126,250,133,236,134,232,145,223,151,216,158,210,160,201,159,191,116,179,110,179,106,174,101,173,93,169,88,163,75,156,62,157" shape="poly" image="/App_Theme/images/maps/medellin.gif" target="" value="5500104" name="NorOccidente" level="2" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/occidente/medellin/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500006|5500106||||||||||||||||||1||griddate desc||||||" text="2844 inmuebles en Occidente" coords="160,191,183,204,200,199,201,244,204,244,205,267,201,270,197,275,197,285,195,290,189,290,188,295,187,303,181,306,175,303,172,309,169,303,163,309,151,302,163,292,153,291,151,283,159,274,150,273,138,278,137,282,131,282,125,288,124,257,129,245,134,231,160,207" shape="poly" image="/App_Theme/images/maps/medellin.gif" target="" value="5500106" name="Occidente" level="2" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/suroccidente/medellin/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500006|5500105||||||||||||||||||1||griddate desc||||||" text="2756 inmuebles en SurOccidente" coords="199,199,218,193,293,207,293,214,290,217,295,227,292,233,287,232,281,239,280,249,274,252,275,255,269,264,268,255,263,259,261,255,256,261,251,260,243,265,240,268,240,276,236,280,235,266,225,263,221,265,225,272,221,276,216,274,210,275,207,287,200,282,198,277,204,268" shape="poly" image="/App_Theme/images/maps/medellin.gif" target="" value="5500105" name="SurOccidente" level="2" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/copacabana/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500008|||||||||||||||||||1||griddate desc||||||" text="296 inmuebles en Copacabana" coords="66,0,59,74,48,73,46,80,51,92,66,93,76,102,76,110,78,116,72,123,67,133,65,142,61,152,55,157,43,156,32,154,20,146,12,136,4,131,1,122,0,0" shape="poly" target="" value="5500008" name="Copacabana" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/bello/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500005|||||||||||||||||||1||griddate desc||||||" text="1835 inmuebles en Bello" coords="0,127,0,195,14,190,19,188,38,187,48,186,48,197,46,212,49,218,52,223,55,214,58,216,59,208,57,199,55,195,57,184,51,176,53,170,53,157,42,156,31,153,17,142" shape="poly" target="" value="5500005" name="Bello" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/itagui/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500002|||||||||||||||||||1||griddate desc||||||" text="1297 inmuebles en Itaquí" coords="293,208,301,210,300,223,308,227,319,237,327,251,332,251,339,259,339,267,337,273,331,278,330,293,324,299,322,309,314,316,304,314,297,307,292,300,285,299,278,303,275,277,280,274,288,274,302,266,304,259,296,241,289,236,294,230,291,218" shape="poly" target="" value="5500002" name="Itaquí" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/la-estrella/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500003|||||||||||||||||||1||griddate desc||||||" text="1160 inmuebles en La Estrella" coords="399,354,387,332,379,318,371,306,359,293,343,281,337,275,330,279,330,282,330,297,323,302,323,311,315,316,312,317,322,328,323,352,325,353,330,350,333,352,329,370,330,400,399,399" shape="poly" target="" value="5500003" name="La Estrella" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/sabaneta/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500016|||||||||||||||||||1||griddate desc||||||" text="3313 inmuebles en Sabaneta" coords="398,240,386,243,384,252,379,257,372,258,364,255,354,259,349,256,341,258,339,260,340,265,338,272,338,276,367,301,384,326,399,354" shape="poly" target="" value="5500016" name="Sabaneta" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/envigado/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500001|||||||||||||||||||1||griddate desc||||||" text="6611 inmuebles en Envigado" coords="300,206,308,205,317,191,315,187,323,178,322,168,325,161,332,161,339,154,343,154,348,158,355,145,371,144,389,145,398,148,398,239,386,243,385,248,382,255,372,258,365,253,355,258,348,255,340,258,333,253,328,253,323,243,317,236,311,230,300,226,300,216" shape="poly" target="" value="5500001" name="Envigado" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/rionegro/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500004|||||||||||||||||||1||griddate desc||||||" text="1790 inmuebles en Rionegro" coords="251,138,267,140,270,134,270,130,281,125,293,125,305,117,316,119,320,113,332,109,329,103,325,93,324,73,312,74,307,66,299,61,289,58,276,61,269,50,264,48,259,46,257,50,255,53,250,56,249,63,251,72,260,82,261,98,256,118" shape="poly" target="" value="5500004" name="Rionegro" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/la-ceja/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500012|||||||||||||||||||1||griddate desc||||||" text="700 inmuebles en La Ceja" coords="333,110,329,99,326,94,325,74,333,71,341,70,351,71,364,81,375,91,386,91,395,88,400,84,399,104,397,108,396,113,394,120,391,124,384,124,378,121,369,114,355,111,344,109" shape="poly" target="" value="5500012" name="La Ceja" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/el-retiro/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500013|||||||||||||||||||1||griddate desc||||||" text="868 inmuebles en El Retiro" coords="400,105,393,122,389,126,377,122,373,117,358,111,339,110,330,109,319,113,317,118,305,118,295,125,286,125,275,127,267,140,296,152,304,150,312,156,319,155,319,161,328,161,341,152,347,155,357,141,400,145" shape="poly" target="" value="5500013" name="El Retiro" level="1" group="" groupname="" />
+        
+            
+            <area href="/Vivienda/venta/medellin/?ad=30|1||||1||8,9,22,10,24,5,18,19,3,4,20,21,23,7,2|||55|5500006|||||||||||||||||||1||griddate desc||||||" text="22523 inmuebles en Medellín" coords="292,232,290,237,284,237,279,248,274,254,276,258,269,265,267,259,261,257,255,262,248,262,242,268,240,277,236,281,234,268,227,264,221,265,225,273,220,277,216,276,210,274,207,289,201,283,201,270,195,280,197,288,189,291,188,300,186,307,177,309,169,307,163,307,151,304,162,293,153,291,153,286,159,273,147,273,138,280,138,283,131,283,124,291,114,294,108,290,106,278,101,273,91,262,90,257,96,252,91,238,86,228,87,220,81,216,73,216,69,211,62,216,57,204,56,195,55,186,51,176,53,161,59,153,68,134,73,122,81,116,95,115,107,113,115,121,122,115,129,114,141,114,153,121,157,127,164,124,165,117,174,120,180,115,185,123,194,124,203,114,202,108,200,102,206,96,211,93,216,96,220,94,224,102,225,109,223,113,223,120,228,123,227,138,222,140,219,145,226,147,226,156,231,162,240,160,245,152,253,145,251,139,267,140,282,147,297,153,305,151,310,158,317,156,319,161,326,161,329,172,319,195,302,208,293,213" shape="poly" image="/App_Theme/images/maps/medellin.gif" show="false" target="This" value="5500006" name="Medellín" level="1" group="" groupname="" />
+        
+</map>
+
+            </div>
+            <div class="banner">
+                <div id="ctl00_phMasterPage_divPublicityLateral" class="publicityDetailLateral">
+                    <span class="pub">Publicidad</span>
+                    <iframe id="BannerMapa250x430" width="250" scrolling="no" height="430" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" src="/banner.aspx?id=8&amp;kw_departamentoFR=55&amp;kw_tranidFR=1&amp;kw_catidFR=0&amp;kw_ciudadFR=0"></iframe>
+                         
+                </div>    
+                <!--espacio para galeria de proyectos-->
+                <div class="publicityDetailLateral" id="BannerGalleryMapa250x430">
+                
+
+<!--div class="pub">Publicidad</div-->          
+
+</div>
+            </div>
+            <div class="clear">
+            </div>
+            <div class="link-contador">
+            <p></p>
+                <a href="/Vivienda/venta/antioquia/" class="vinculo">Ver 43.729 Inmuebles  en Venta en Antioquia</a>
+                </div>
+            <!--espacio para galeria de destacados-->
+            <div id="divGallery">
+            <div id="ctl00_GalleryContainer" class="gallery">
+    <div id="leftArrow" class="scroll-left">
+        <div class="img-left ico12">
+        </div>
+    </div>
+
+    <div style="position:relative;float:left;height:250px;">
+        <div id="parent_gallery" style="position:absolute;height:240px;overflow:hidden;width:914px;">
+            <div id="content_gallery" style="position: relative; height: 240px; width: 5340px;">
+                
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/moka-apartamentos/el-retiro/proyecto-nuevo-det-3695062.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/06/13/3695062/proyecto-nuevo-venta-antioquia-el-retiro-164567165_m.jpg" alt="Moka Apartamentos" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        El Retiro - Puente Martín Pescador</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 438,814,400</div>
+                            <div class="m2">
+                                Área: 90,56 a 115,93 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/06/13/3695062/proyecto-nuevo-venta-antioquia-el-retiro-164567167_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/avenida-park/medellin/proyecto-nuevo-det-3987571.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/27/3987571/proyecto-nuevo-venta-antioquia-medellin-167131144_m.jpg" alt="Avenida Park" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Medellín - Castropol</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 444,301,540</div>
+                            <div class="m2">
+                                Área: 64,45 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/27/3987571/proyecto-nuevo-venta-antioquia-medellin-167131146_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/baluarte-apartamentos/sabaneta/proyecto-nuevo-det-2830275.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/06/05/2830275/proyecto-nuevo-venta-antioquia-sabaneta-154069507_m.jpg" alt="Baluarte Apartamentos" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Sabaneta - Sabaneta</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 372,318,400</div>
+                            <div class="m2">
+                                Área: 98,00 a 134,90 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/06/05/2830275/proyecto-nuevo-venta-antioquia-sabaneta-154069501_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/dakota/bello/proyecto-nuevo-det-2921179.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/07/14/2921179/proyecto-nuevo-venta-antioquia-bello-136708435_m.jpg" alt="Dakota" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Bello - Norteamerica</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 312,000,000</div>
+                            <div class="m2">
+                                Área: 2.078,00 a 4.050,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/07/14/2921179/proyecto-nuevo-venta-antioquia-bello-136708384_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/palermo/medellin/proyecto-nuevo-det-2393445.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/10/20/2393445/proyecto-nuevo-venta-antioquia-medellin-136586953_m.jpg" alt="Palermo" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Medellín - Loma del Indio</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 411,800,000</div>
+                            <div class="m2">
+                                Área: 85,57 a 101,16 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/10/20/2393445/proyecto-nuevo-venta-antioquia-medellin-136586956_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/florida-norteamerica/bello/proyecto-nuevo-det-2564055.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/02/02/2564055/proyecto-nuevo-venta-antioquia-bello-167009350_m.jpg" alt="Florida Norteamerica" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Bello - Sector Navarra</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 145,300,000</div>
+                            <div class="m2">
+                                Área: 41,22 a 89,63 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/02/02/2564055/proyecto-nuevo-venta-antioquia-bello-167009336_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/viso-apartamentos/sabaneta/proyecto-nuevo-det-3306153.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/01/11/3306153/proyecto-nuevo-venta-antioquia-sabaneta-156657418_m.jpg" alt="VISO apartamentos" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Sabaneta - El Carmelo</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 258,570,000</div>
+                            <div class="m2">
+                                Área: 66,30 a 81,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/01/11/3306153/proyecto-nuevo-venta-antioquia-sabaneta-156657421_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/ariza-de-castropol/medellin/proyecto-nuevo-det-3838818.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/08/06/3838818/proyecto-nuevo-venta-antioquia-medellin-166807585_m.jpg" alt="Arizá de Castropol" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Medellín - Castropol</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 559,546,000</div>
+                            <div class="m2">
+                                Área: 103,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/08/06/3838818/proyecto-nuevo-venta-antioquia-medellin-166807590_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/mont-claire/envigado/proyecto-nuevo-det-2415628.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/11/01/2415628/proyecto-nuevo-venta-antioquia-envigado-164528987_m.jpg" alt="MONT CLAIRE" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Envigado - Loma de los Benedictinos</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 693,112,000</div>
+                            <div class="m2">
+                                Área: 132,40 a 209,20 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/11/01/2415628/proyecto-nuevo-venta-antioquia-envigado-164528972_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/rosset/envigado/proyecto-nuevo-det-2415550.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/11/01/2415550/proyecto-nuevo-venta-antioquia-envigado-164528357_m.jpg" alt="ROSSET" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Envigado - Abadía</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 465,290,500</div>
+                            <div class="m2">
+                                Área: 88,15 a 126,95 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/11/01/2415550/proyecto-nuevo-venta-antioquia-envigado-164528360_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/ventus-apartamentos/rionegro/proyecto-nuevo-det-3698025.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/06/14/3698025/proyecto-nuevo-venta-antioquia-rionegro-164568476_m.jpg" alt="Ventus Apartamentos" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Rionegro - Balcones II</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 302,660,000</div>
+                            <div class="m2">
+                                Área: 66,29 a 88,08 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/06/14/3698025/proyecto-nuevo-venta-antioquia-rionegro-164568483_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/sierra-grande/el-retiro/proyecto-nuevo-det-3081712.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/09/22/3081712/proyecto-nuevo-venta-antioquia-el-retiro-167131259_m.jpg" alt="Sierra Grande" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        El Retiro - Fizebad</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 547,342,000</div>
+                            <div class="m2">
+                                Área: 85,02 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/09/22/3081712/proyecto-nuevo-venta-antioquia-el-retiro-167131261_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/condominio-natural-plante/rionegro/proyecto-nuevo-det-3468781.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/03/13/3468781/proyecto-nuevo-venta-antioquia-rionegro-165953889_m.jpg" alt="CONDOMINIO NATURAL PLANTÉ" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Rionegro - Sector Colegio Corazonistas</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 196,798,000</div>
+                            <div class="m2">
+                                Área: 43,77 a 80,86 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/03/13/3468781/proyecto-nuevo-venta-antioquia-rionegro-165953886_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/bari/bello/proyecto-nuevo-det-2713018.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/04/11/2713018/proyecto-nuevo-venta-antioquia-bello-155065099_m.jpg" alt="BARI" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Bello - Prado</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 173,397,000</div>
+                            <div class="m2">
+                                Área: 64,11 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/04/11/2713018/proyecto-nuevo-venta-antioquia-bello-155065088_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/kamelot/sabaneta/proyecto-nuevo-det-2483357.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/12/13/2483357/proyecto-nuevo-venta-antioquia-sabaneta-164530864_m.jpg" alt="KAMELOT" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Sabaneta - Sabaneta</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 364,080,000</div>
+                            <div class="m2">
+                                Área: 83,60 a 106,70 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/12/13/2483357/proyecto-nuevo-venta-antioquia-sabaneta-164530855_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/cactus/itagui/proyecto-nuevo-det-3997263.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/01/3997263/proyecto-nuevo-venta-antioquia-itagui-164608210_m.jpg" alt="CACTUS" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Itaguí - Suramerica</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 247,840,000</div>
+                            <div class="m2">
+                                Área: 60,00 a 73,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/01/3997263/proyecto-nuevo-venta-antioquia-itagui-164608211_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/vierzo/medellin/proyecto-nuevo-det-4001796.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/02/4001796/proyecto-nuevo-venta-antioquia-medellin-164608481_m.jpg" alt="VIERZO" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Medellín - El Poblado</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 689,366,000</div>
+                            <div class="m2">
+                                Área: 102,00 a 148,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/02/4001796/proyecto-nuevo-venta-antioquia-medellin-164608482_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/terrazzino-cumbres/envigado/proyecto-nuevo-det-3276245.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/12/18/3276245/proyecto-nuevo-venta-antioquia-envigado-150524052_m.jpg" alt="Terrazzino Cumbres" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Envigado - Cumbres</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 356,900,000</div>
+                            <div class="m2">
+                                Área: 82,00 a 106,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/12/18/3276245/proyecto-nuevo-venta-antioquia-envigado-150524042_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/mall-indiana/envigado/proyecto-nuevo-det-4017624.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/04/4017624/proyecto-nuevo-venta-antioquia-envigado-164582916_m.jpg" alt="MALL INDIANA" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Envigado - Alto de las Palmas</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 248,711,000</div>
+                            <div class="m2">
+                                Área: 32,00 a 34,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/04/4017624/proyecto-nuevo-venta-antioquia-envigado-164582914_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/altos-de-la-martina/san-jeronimo/proyecto-nuevo-det-3764040.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/07/10/3764040/proyecto-nuevo-venta-antioquia-san-jeronimo-148093008_m.jpg" alt="Altos de La Martina" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        San Jerónimo - Vereda Las Estancias</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 604,422,000</div>
+                            <div class="m2">
+                                Área: 220,00 a 250,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/07/10/3764040/proyecto-nuevo-venta-antioquia-san-jeronimo-148093010_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/san-juan-de-la-tasajera/copacabana/proyecto-nuevo-det-3606699.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/05/07/3606699/proyecto-nuevo-venta-antioquia-copacabana-156652739_m.jpg" alt="SAN JUAN DE LA TASAJERA" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Copacabana - San Juan</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 121,960,000</div>
+                            <div class="m2">
+                                Área: 48,00 a 70,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/05/07/3606699/proyecto-nuevo-venta-antioquia-copacabana-156652743_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/estacion-52/itagui/proyecto-nuevo-det-3987547.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/27/3987547/proyecto-nuevo-venta-antioquia-itagui-164581499_m.jpg" alt="ESTACIÓN 52" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Itaguí - Centro de la Moda</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 314,450,000</div>
+                            <div class="m2">
+                                Área: 72,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/27/3987547/proyecto-nuevo-venta-antioquia-itagui-164581501_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/turcal-de-la-80/medellin/proyecto-nuevo-det-3448828.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/03/05/3448828/proyecto-nuevo-venta-antioquia-medellin-164559887_m.jpg" alt="Turcal de la 80" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Medellín - La Floresta</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 405,000,000</div>
+                            <div class="m2">
+                                Área: 95,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/03/05/3448828/proyecto-nuevo-venta-antioquia-medellin-164559885_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/seniors-club-el-vergel/envigado/proyecto-nuevo-det-3987589.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/27/3987589/proyecto-nuevo-venta-antioquia-envigado-167131351_m.jpg" alt="SENIORS CLUB EL VERGEL" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Envigado - Loma del Escobero</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 324,421,000</div>
+                            <div class="m2">
+                                Área: 37,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/27/3987589/proyecto-nuevo-venta-antioquia-envigado-167131342_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/st-laurent/envigado/proyecto-nuevo-det-2414704.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/11/01/2414704/proyecto-nuevo-venta-antioquia-envigado-164527948_m.jpg" alt="ST LAURENT" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Envigado - Transversal Intermedia</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 524,624,000</div>
+                            <div class="m2">
+                                Área: 94,24 a 138,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/11/01/2414704/proyecto-nuevo-venta-antioquia-envigado-164527942_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/edificio-torre-di-palme/medellin/proyecto-nuevo-det-3913611.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/01/3913611/proyecto-nuevo-venta-antioquia-medellin-157042266_m.jpg" alt="Edificio Torre Di Palme" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Medellín - Belen La Palma</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 332,400,000</div>
+                            <div class="m2">
+                                Área: 78,85 a 93,76 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/01/3913611/proyecto-nuevo-venta-antioquia-medellin-157042268_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/hato-verde/marinilla/proyecto-nuevo-det-4020068.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/05/4020068/proyecto-nuevo-venta-antioquia-marinilla-164583072_m.jpg" alt="Hato Verde" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Marinilla - Alcaravanes</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 216,788,500</div>
+                            <div class="m2">
+                                Área: 74,23 a 79,02 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/05/4020068/proyecto-nuevo-venta-antioquia-marinilla-164583073_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/sendai/rionegro/proyecto-nuevo-det-3967093.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/19/3967093/proyecto-nuevo-venta-antioquia-rionegro-164580000_m.jpg" alt="SENDAI" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Rionegro - Villas del Rio</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 285,267,200</div>
+                            <div class="m2">
+                                Área: 71,54 a 84,70 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/bangkok/sabaneta/proyecto-nuevo-det-2486044.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/12/14/2486044/proyecto-nuevo-venta-antioquia-sabaneta-164699533_m.jpg" alt="BANGKOK" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Sabaneta - Aves Maria</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 328,216,000</div>
+                            <div class="m2">
+                                Área: 76,80 a 115,37 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2016/12/14/2486044/proyecto-nuevo-venta-antioquia-sabaneta-164699523_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+                        
+                        <div class="box">
+                            <div class="img">
+                                <a href="/tres-cantos/medellin/proyecto-nuevo-det-3997213.aspx"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/01/3997213/proyecto-nuevo-venta-antioquia-medellin-164608140_m.jpg" alt="TRES CANTOS" /></a>
+                                <div class="DataMapGallery">
+                                    <div class="MapLocation">
+                                        Medellín - El Poblado</div>
+                                        <div class="MapLocation"></div>                                     
+                                </div>
+                                </div>
+                            <div class="price">
+                                Desde: $ 494,837,000</div>
+                            <div class="m2">
+                                Área: 75,00 m2</div>
+                            <div class="logo_client">
+                                <div class="holder">
+                                    <span id="edge"></span>
+                                    <span id="container"><img src="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/01/3997213/proyecto-nuevo-venta-antioquia-medellin-164608141_m.jpg" /></span> 
+                                </div>
+                             </div>
+                        </div>        
+                    
+            </div>
+        </div>
+    </div>
+                
+    <div id="rightArrow" class="scroll-right">
+        <span class="img-right ico12" style="width:8px"></span>
+    </div>
+    
+</div>
+</div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <script type="text/javascript" language="javascript">
+document.getElementById('BannerMapa250x430').src='/banner.aspx?id=8&amp;kw_departamentoFR=55&amp;kw_tranidFR=1&amp;kw_catidFR=0&amp;kw_ciudadFR=0';
+</script>
+
+    </form>
+    <script type="text/javascript">
+        $(document).ready(
+            function () {
+                $('.link').find('a').each(function () {
+                    $(this).mouseover(function () {
+                        $(this).parent()._addClass("bordershadow");
+                    });
+                    $(this).mouseout(function () {
+                        $(this).parent()._removeClass("bordershadow");
+                    });
+                });
+
+                //Se carga la galería de proyectos
+                jQuery.ajax({
+                    type: "GET",
+                    url: "/BannerGalleryMapa250x430.ashx?L1=55",
+                    dataType: "html",
+                    success: function (response) {
+                        $('#BannerGalleryMapa250x430').append(response);
+                    }
+                });
+            }
+        );
+    </script>
+</div>
+
+            <!--MASTER FOOTER-->
+            <div id="divFooter">
+             
+
+<div id="Div_Footer" class="footer">
+    <div id="ctl00_xFooter_Div_Footer_Principal" class="footer">
+        <div class="contenedor_products">
+            <img src="/App_Theme/images/logo_fincaraiz_footer.png" width="361" height="58" />
+        </div>
+        <div class="panel_principal">
+            <div id="ctl00_xFooter_LinksGroupFooter1_Div_LinksEstaticos"> 
+ <ul class="contenido_footer_principal">
+  <li class="titulos_footer">
+      Oferta de Finca Raíz en Colombia 
+  </li>
+    
+            <li class="contenedor_links_rapida"><a href="/proyectos-vivienda-nueva/bogota" class="texto_rapida" title="Proyectos de Vivienda en Bogotá">Proyectos Vivienda Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartamentos/arriendo/bogota/" class="texto_rapida" title="Apartamentos en Arriendo en Bogotá">Apartamentos Arriendo Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartamentos/venta/bogota/" class="texto_rapida" title="Apartamentos en Venta en Bogotá">Apartamentos Venta Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartaestudios/arriendo/bogota/" class="texto_rapida" title="Apartaestudios en Arriendo en Bogotá">Apartaestudios Arriendo Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/arriendos/bogota/" class="texto_rapida" title="Arriendos en Bogotá">Arriendos Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/casas/arriendo/bogota/" class="texto_rapida" title="Casas en Arriendo en Bogotá">Casas Arriendo Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/casas/venta/bogota/" class="texto_rapida" title="Casas en Venta en Bogotá">Casas Venta Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartamentos/alquiler/cali/" class="texto_rapida" title="Apartamentos en Alquiler en Cali">Apartamentos Alquiler Cali</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartamentos/venta/cali" class="texto_rapida" title="Apartamentos en Venta en Cali">Apartamentos Venta Cali</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/casas/alquiler/cali/" class="texto_rapida" title="Casas en Alquiler en Cali">Casas Alquiler Cali</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/casas/venta/cali/" class="texto_rapida" title="Casas en Venta en Cali">Casas Venta Cali</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/arrendamientos/medellin/" class="texto_rapida" title="Inmuebles en Arrendamiento en Medellín">Arrendamientos Medellín</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/arrendamientos/envigado/" class="texto_rapida" title="Inmuebles en Arrendamiento en Envigado">Arrendamientos Envigado</a></li>
+        
+ </ul>
+</div>
+
+
+
+
+  
+
+        </div>
+        <div class="panel_secundario">
+            
+
+
+
+
+
+
+
+<ul class="contenido_footer_principal">
+ <li class="titulos_footer">
+  ¿Quienes Somos?
+ </li>    
+ <li class="contenedor_links_rapida">
+  Un Portal Web dedicado al mercado de Bienes Raíces. fincaraiz.com.co  te ofrece en Bogotá, Cali, Medellín y el resto de Colombia, inmuebles en venta y arriendo. Encuentra anuncios clasificados de Constructoras, Inmobiliarias o Particulares: vivienda usada, inmuebles comerciales, proyectos nuevos de vivienda y otras propiedades. 
+ </li>
+</ul>
+        </div>
+        <div class="panel_secundario">
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Site Map Finca Raíz</li>
+            </ul>
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Oferta de Anuncios: </li>
+                <li class="contenedor_links"><a class="texto_links" title="Inmuebles en Venta en Colombia" href="/finca-raiz/">Venta Nuevo y Usados<br /></a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Proyectos de Vivienda Nueva en Colombia" href="/proyectos-vivienda-nueva/">Proyectos Nuevos</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Inmuebles en Arriendo en Colombia" href="/arriendos/">Ofertas en Arriendo</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Alquiler Vacacional en Colombia" href="/alquiler-vacacional/">Ofertas Vacacionales</a></li>
+            </ul>
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Nuestros Clientes</li>
+                <li class="contenedor_links"><a class="texto_links" title="Listado de Inmobiliarias en Colombia" href="/inmobiliarias/">Inmobiliarias<br /></a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Listado de Constructoras en Colombia" href="/constructoras/">Constructoras<br /></a></li>
+            </ul>
+        </div>
+        <div class="panel_secundario">
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Site Map Finca Raíz</li>
+            </ul>
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Nuestros Servicios: </li>
+                <li class="contenedor_links"><a class="texto_links" title="Administración de Inmuebles - Particulares" href="/ClientAdmin/Adverts.aspx">Gestión Personal</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Administración de Inmuebles - Inmobiliarias y Constructoras" href="http://profesionales.fincaraiz.com.co/">Gestión Empresarial</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Publicación de Avisos de Finca Raíz" href="/anuncios-clasificados-gratis-publicar-inmueble.aspx">Publicar Inmueble GRATIS*</a></li>
+            </ul>
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Servicio al Cliente: </li>
+                <li class="contenedor_links"><a class="texto_links" title="Conctactar a fincaraiz.com.co" href="/contactenos.aspx">Contáctenos<br /></a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Consultar Preguntas Frecuentes de los Usuarios" href="/preguntas_frecuentes.aspx">Preguntas frecuentes</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Consultar Recomendaciones de Seguridad" href="/recomendaciones_seguridad.aspx">Recomendaciones de seguridad</a></li>
+            </ul>
+        </div>
+        <div class="panel_logos_marcas">
+            <div class="producto">Un Producto:<div id="schibsted_logo" style="cursor: pointer" title="www.schibsted.com" onclick="javascript:window.open('http://www.schibsted.com') "></div>
+            </div>
+            <div class="redes_sociales">
+                Síguenos en:<a id="laguia_google" href="https://plus.google.com/+fincaraiz" title="Síguenos en Google+" target="_blank"></a>
+                <div id="laguia_facebook" style="cursor: pointer" title="Síguenos en Facebook" onclick="javascript:window.open('http://www.facebook.com/fincaraiz.com.co') "></div>
+                <div id="laguia_twitter" style="cursor: pointer" title="Síguenos en Twitter" onclick="javascript:window.open('https://twitter.com/fincaraizfr') "></div>
+                <div id="laguia_youtube" style="cursor: pointer" title="Síguenos en Youtube" onclick="javascript:window.open('http://www.youtube.com/c/fincaraiz') "></div>
+            </div>
+            <div class="afiliado">Afiliado a:<a id="laguia_afiliado"></a></div>
+        </div>
+    </div>
+    
+    <div class="contenido_aviso_legal ">
+        * Aplica sólo para personas naturales, máximo dos avisos gratis. Excluye Proyectos Nuevos<br />
+        Fincaraiz.com.co cumple con la ley 527 de 1.999, para todos los efectos ha de entenderse por SISTEMA DE INFORMACIÓN. <a href="/aviso_legal.aspx" class="link_aviso_legal">Aviso legal</a> - <a href="/proteccion_datos.aspx" class="link_aviso_legal">Protección de datos</a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+        <div id="ctl00_scripts">
+        <script type="text/javascript">$(document).ready(function () {jQuery.ajax({type: 'GET',url: '/Gallery.ashx?find=30|1||||1|||||55||||||||||||||||||||1||griddate desc||||||',dataType: 'html',success: function (response) {$('#divGallery').append(response);}});});</script><script type="text/javascript">var MapDynamicCounters = 'False'.toLowerCase();
+$('#imgMap').maphighlight();
+addPreload('/App_Theme/images/maps/medellin.gif,');</script></div>
+        <div id="ctl00_publicity">
+        </div>
+
+        
+    
+    <!--Div necesarios para las notificaciones-->
+    <div id="AlertContainer"></div>
+    <div id="notification_panel" class="progress_fixed">Procesando</div>
+    <div id="msg" class="msg_black">
+        <div class="msg_content">
+            <span></span>
+        </div>
+    </div>
+    <div id="layer_black"></div>
+
+    <div id="debugDiv" style="color:#fff;background-color:#000;width:800px;height:70px;display:none;position:fixed;bottom:0px;right:0px;z-index:999999;">
+        <textarea rows="4" cols="108" id="txtDebug" value="Debug"></textarea>
+    </div>
+    <script type="text/javascript">
+        function GetBreadCrumbsOk() { }
+        $("#debugDiv").attr("style", "color:#fff;background-color:#000;width:800px;height:70px;display:none;position:fixed;bottom:0px;right:0px;z-index:999999;")
+        
+        function addDebug(text) {
+            $("#txtDebug").text(text + "\n" + $("#txtDebug").text());
+        }
+    </script>
+
+
+<div id="tooltipMap" style="display:none;border:1px solid black;background:#fff;position:absolute;width:140px;height:auto;padding:5px"></div></body></html>

@@ -1,0 +1,2368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es" xmlns:fb="http://ogp.me/ns/fb#"><head id="head">
+    <link rel="canonical" href="https://www.fincaraiz.com.co/Vivienda/venta/vichada/" /> 
+    <title>Finca Raíz en Vichada | fincaraiz.com.co</title>   
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="description" content="Clasificados de Finca Raíz en Vichada, venta y arriendo. Encuentre su inmueble: Proyectos de Vivienda Nueva, Vivienda Usada, Inmuebles Comerciales, otros." />
+    <meta name="language" content="es-CO" />
+    <meta http-equiv="content-language" content="es-co" />
+    <meta name="distribution" content="global" />
+    <meta name="resource-type" content="document" />
+    <meta name="Audience" content="All" />
+    <meta name="robots" content="index,follow" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.fincaraiz.com.co/Vivienda/venta/vichada/" />
+    
+
+    
+    <meta property="fb:admins" content="100000283157257" />
+    <meta property="og:site_name" content="www.fincaraiz.com.co" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_LA" />
+    <meta property="og:title" content="Finca Raíz en Vichada | fincaraiz.com.co" />
+    <meta property="og:description" content="Clasificados de Finca Raíz en Vichada, venta y arriendo. Encuentre su inmueble: Proyectos de Vivienda Nueva, Vivienda Usada, Inmuebles Comerciales, otros." /> 
+    <meta property="og:url" content="http://www.fincaraiz.com.co/Vivienda/venta/vichada/" />
+    <meta property="og:image" content="https://www.fincaraiz.com.co/App_Theme/images/landig_page/landing_apps/Logo_app.png" /> 
+
+    
+    
+    <link href="/CSSScript.ashx?Version=131847821774414655&amp;type=CSS&amp;fileSet=header,popups,normalize,mainNew,helper,font-awesomeNew,footer,parrilla,scroll,breadcrumbFilter,filters,font-fontello,font-awesomeNew,font-google-lato,popups,LoginRegister,detalle,AlertNew" rel="stylesheet" type="text/css" />
+    <script async="true" type="text/javascript" src="https://sslwidget.criteo.com/event?a=%5B35366%2C48693%5D&amp;v=4.8.1&amp;p0=e%3Dexd%26site_type%3Dd&amp;p1=e%3Dvl&amp;p2=e%3Ddis&amp;adce=1&amp;lwid=e4d781ef-8266-42a9-b3f9-177e714f7952&amp;tld=fincaraiz.com.co&amp;dtycbr=51689" data-owner="criteo-tag"></script><script type="text/javascript" async="" charset="utf-8" src="//static.criteo.net/js/ld/ld.js" id="utag_51"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-M59GSFH&amp;t=tealium_0&amp;cid=55970317.1540560757"></script><script type="text/javascript" async="" id="tealium-tag-3005" src="https://sb.scorecardresearch.com/c2/10424679/cs.js"></script><script type="text/javascript" async="" charset="utf-8" src="//static.hotjar.com/c/hotjar-825301.js?sv=5" id="utag_47"></script><script src="https://connect.facebook.net/signals/config/855921464443427?v=2.8.30&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" charset="utf-8" src="//www.googleadservices.com/pagead/conversion_async.js" id="utag_7"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.google-analytics.com/analytics.js" id="tealium-tag-7110"></script><script type="text/javascript" async="" charset="utf-8" src="//www.fincaraiz.com.co/App_Theme/scripts/xtcore.js" id="utag_25"></script><script type="text/javascript" async="" charset="utf-8" src="//sdk.pulse.schibsted.com/pulse.min.js" id="utag_45"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1540189908068/recaptcha__es.js"></script><script src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.js" type="text/javascript" async=""></script><script src="/CSSScript.ashx?type=JS&amp;fileSet=jquery&amp;min=0" type="text/javascript"></script>
+    <script src="/CSSScript.ashx?Version=131847821880494655&amp;type=JS&amp;fileSet=AlertNew,util,input,tabs,cookie,usorigin,browserstorage" type="text/javascript"></script>
+    <script src="/CSSScript.ashx?Version=131847821880494655&amp;type=JS&amp;fileSet=,knockout.min,advertresults,grid-knockOut,cookie,scroll,ajax,breadcrumbFilterV2,lazyload,loginregistercustomizer,ajax,util,validation,AlertNew,LoginRegister,FacebookManager,advertNew,validation,FavoriteAdverts" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        var AjaxEnabled = toBoolean("True")
+        var sPhotosUrl = 'https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/';
+        var sLogosUrl = 'https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/Logos/';
+        var Origin = 40;
+        var DateTimeMin = '1/1/0001 12:00:00 AM';
+        var utag_data = '';
+        var OLAPContactType={AdvertViewPhone:3001,AdvertContact:3002,ClientVisits:3003,ClientViewPhone:3004,ClientContact:3005,AdvertContact_DetailMain:3006,AdvertContact_DetailGridON:3007,AdvertContact_DetailPriceAlert:3008,AdvertContact_DetailCallback:3009,AdvertContact_DetailButtonZoneInfo:3010,AdvertContact_DetailMap:3011,AdvertContact_Results:3012,AdvertContact_ResultsMicrosite:3013,AdvertContact_Compare:3014,AdvertContact_SuperOffer:3015,AdvertContact_DetailButtonMain:3016,AdvertContact_Whatsapp:3017,AdvertContact_ViewPhone:3018};
+    </script>
+<script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.25.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_25"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.26.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_26"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.42.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_42"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.7.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_7"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.18.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_18"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.70.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_70"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.47.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_47"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.51.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_51"></script><script type="text/javascript" async="" charset="utf-8" src="//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.79.js?utv=ut4.37.201808062214" id="utag_schibsted.fincaraiz_79"></script><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1012702328/?random=1540560768327&amp;cv=9&amp;fst=1540560768327&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=659255991&amp;u_h=768&amp;u_w=1366&amp;u_ah=768&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;sendb=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.fincaraiz.com.co%2FVivienda%2Fventa%2Fvichada%2F&amp;ref=https%3A%2F%2Fwww.fincaraiz.com.co%2F&amp;tiba=Finca%20Ra%C3%ADz%20en%20Vichada%20%7C%20fincaraiz.com.co&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script async="" src="https://script.hotjar.com/modules-f68c7584b6cf48d3984174403dcfbda2.js"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+<body id="body">
+    
+<script type="text/javascript">
+    utag_data = JSON.parse('{"environment":"Prod","page_type":"List","page_type_id":"2","event_name":"List","ad_type_id":"1","ad_type":"Venta","ad_id":"0","ad_source_id":"0","region_level1":"Vichada","region_level1_id":"84","category_level1":"Apartamento","category_level1_id":"8","action_type":"Navigation","num_bathrooms":"0","results_page":"1","rooms":"0","visit_origin":"Direct","Continent_Code":"SA","Continent_Name":"South America","Country_IsoCode":"CO","Country_Name":"Colombia","Traits_IPAddress":"181.129.9.50"}');
+</script>
+
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+    (function (a, b, c, d) {
+        a = '//tags.tiqcdn.com/utag/schibsted/fincaraiz/prod/utag.js';
+        b = document; c = 'script'; d = b.createElement(c); d.src = a; d.type = 'text/java' + c; d.async = true;
+        a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
+    })();
+
+    var TealiumEventHandler = function (event, data) {
+        var dataTealium = data;
+        try 
+        {
+            if (event.toLowerCase() == "view") {
+                utag.view(dataTealium);
+                $.each(dataTealium, function (index, value) { utag_data[index] = value; });
+            }
+            if (event.toLowerCase() == "click") {
+                utag.link(dataTealium);
+                $.each(dataTealium, function (index, value) { utag_data[index] = value; });
+            }
+            if (event.toLowerCase() == "hit") {
+                utag.track({ event: 'hit', data: dataTealium });
+            }
+        }
+        catch (ex)
+        {
+            console.log(ex);
+        }
+    }
+
+    function trackingView(page, _eventHandler) {
+        try {
+            var dataTealium = { event_name: page, EventHandler: _eventHandler };
+
+            TealiumEventHandler("view", dataTealium);
+        }
+        catch (ex) {
+        }
+    }
+
+    function trackingClick(page, _eventHandler) {
+        try {
+            var dataTealium = {event_name: page, EventHandler: _eventHandler};
+            
+            TealiumEventHandler("click", dataTealium);
+        }
+        catch (ex) {
+        }
+    }
+
+    function trackingHit(page, _eventHandler) {
+        try {
+            if (typeof (page) == 'undefined' || page == null) {
+                page = utag_data.event_name;
+            }
+
+            var dataTealium = { event_name: page, EventHandler: _eventHandler, environment: utag_data.environment };
+
+            TealiumEventHandler("hit", dataTealium);
+        }
+        catch (ex) {
+        }
+    }
+
+    function TealiumMessage(message) {
+        var dataTealium;
+        try {
+            dataTealium = {
+                EventHandler: 'SpecificTracking',
+                event_name: utag_data.page_type,
+                error_msg: (utag_data.page_type.sanitize() + "-" + message.removeAccents().replace(/\s/g, '_')), 
+                environment: utag_data.environment
+            };
+
+            TealiumEventHandler("hit", dataTealium);
+        }
+        catch (cvex) {
+        }
+    }
+
+    function TealiumGroupPacks(content) {
+        var dataTealium;
+        try {
+            dataTealium = {
+                EventHandler: 'SpecificTracking',
+                event_name: utag_data.page_type,
+                group_packs: (utag_data.page_type.sanitize() + "-GroupPacks_" + content.removeAccents().replace(/\s/g, '_')),
+                environment: utag_data.environment
+            };
+
+            TealiumEventHandler("hit", dataTealium);
+        }
+        catch (cvex) {
+        }
+    }
+
+    function TealiumClick(nameAttribute, valueAttribute, message) {
+        var obj = searchElementTealium(nameAttribute, valueAttribute, message);
+
+        for (var key in obj) {
+            if (obj[key] !== null) {
+                addClickTealium(obj[key], function () { trackingClick(message, 'SpecificTracking'); });
+            }
+        }
+    }
+
+    var addClickTealium = function (objElement, objFunction) {
+        if (objElement.addEventListener) {  // all browsers except IE before version 9
+            objElement.addEventListener("click", objFunction, false);
+        } else {
+            if (objElement.attachEvent) {   // IE before version 9
+                objElement.attachEvent("click", objFunction);
+            }
+        }
+    }
+
+    var searchElementTealium = function (nameAttribute, valueAttribute, message) {
+        var obj = {};
+
+        switch (nameAttribute.toLowerCase().trim()) {
+            case "id":
+                var elementCollection = new Array();
+                var allElements = document.getElementsByTagName("*");
+                for (i = 0; i &lt; allElements.length; i++) {
+                    if (allElements[i].id == valueAttribute)
+                        obj[valueAttribute + i.toString()] = allElements[i];
+                }
+                break;
+            case "name":
+                if (document.getElementsByName(valueAttribute) !== null) {
+                    obj[valueAttribute] = document.getElementsByName(valueAttribute);
+                }
+                break;
+            case "class":
+                if (document.getElementsByClassName(valueAttribute) !== null) {
+                    var allElements = document.getElementsByClassName(valueAttribute);
+                    for (i = 0; i &lt; allElements.length; i++) {
+                        obj[valueAttribute + i.toString()] = allElements[i];
+                    }
+                }
+                break;
+            default:
+                var All = document.getElementsByTagName('*');
+                var cont = 0;
+
+                for (var i = 0; i &lt; All.length; i++) {
+                    if (All[i].getAttribute(nameAttribute) == valueAttribute) {
+                        obj[cont] = All[i];
+                        cont++;
+                    }
+                }
+                break;
+        }
+
+        return obj;
+    }
+
+    var TealiumSetConversion = function (tag, idConversion, emailConversion, content_type, content_ids, value, content_name, content_category) {
+        //Tags personalizados
+        if (typeof (TealiumConversion) !== 'undefined') {
+            TealiumConversion(tag, idConversion, emailConversion, content_type, content_ids, value, content_name, content_category);
+        }
+    }
+
+    var FacebookPixel = function () {
+        var content_ids = []
+        var id = $("#ctl00_phMasterPage_GroupPacks_hddGroupPack").val();
+        if (typeof (id) !== 'undefined' &amp;&amp; id !== '') {
+            var title = $("#GroupPacks" + id).attr("text");
+            var price = $("#Group_" + id + " .price_content h4").html().replace(/\t/g, '').replace(/(\r\n|\n|\r)/g, "").replace("$", '').trim();
+
+            content_ids.push(id)
+            TealiumSetConversion('FacebookPixel', null, null, title, content_ids, price);
+        }
+    }
+
+    var FacebookPixelLead = function (content_name) {
+        var content_category = utag_data.ad_type_id + " : " + utag_data.ad_type + " &gt; " + utag_data.category_level1_id + " : " + utag_data.category_level1
+
+        TealiumSetConversion('FacebookPixelLead', null, null, null, null, 1, content_name, content_category);
+    }
+
+    var RegisterViewBasket = function ()
+    {
+        var Product_arrayPrice = []
+        var Product_arrayPack = []
+        var Product_arrayQuan = []
+        $.each($(".checked"), function (key, value) {
+            var code = $(value).attr("id").replace('price_', '');
+            Product_arrayPrice.push($("#priceValue_" + code).val().replace("$ ",""));
+            var pack = $("#packValue_" + code).val();
+            Product_arrayPack.push(pack);
+            var quan = $("[pack-value*='" + pack + "|']:first").text();
+            Product_arrayQuan.push(quan.substring(0, quan.indexOf(" ")));
+        });
+
+        utag_data.lst_products_id = Product_arrayPack;
+        utag_data.lst_products_price = Product_arrayPrice;
+        utag_data.lst_products_quan = Product_arrayQuan;
+    }
+
+    var RegisterViewBasket = function () {
+        var Product_arrayPrice = []
+        var Product_arrayPack = []
+        var Product_arrayQuan = []
+        $.each($(".checked"), function (key, value) {
+            var code = $(value).attr("id").replace('price_', '');
+            Product_arrayPrice.push($("#priceValue_" + code).val().replace("$ ", ""));
+            var pack = $("#packValue_" + code).val();
+            Product_arrayPack.push(pack);
+            var quan = $("[pack-value*='" + pack + "|']:first").text();
+            Product_arrayQuan.push(quan.substring(0, quan.indexOf(" ")));
+        });
+
+        utag_data.lst_products_id = Product_arrayPack;
+        utag_data.lst_products_price = Product_arrayPrice;
+        utag_data.lst_products_quan = Product_arrayQuan;
+
+        //trackingHit(null, 'SpecificTracking');
+    }
+
+    var RegisterViewItem = function (product) {
+        var code = product.replace("Check_","");
+        utag_data.product_id = $("#packValue_" + code).val();
+        trackingHit(null, 'SpecificTracking');
+    }
+</script>
+
+    <div id="Master_728x90"></div>
+          
+        <div class="page">                  
+            <!-- TOP PUBLICITY-->
+            
+    <!-- Content para publicidad en top, en la página de resultados -->
+    <!-- banner rich media -->
+    <div style="width: 980px; clear: both" itemscope="" itemtype="http://schema.org/WPAdBlock">
+        
+        <!-- e-planning v4 - Comienzo espacio Fincaraiz _ Resultados _ 980x40_Expandible_Prueba -->
+        <script language="JavaScript" type="text/javascript">
+            var eplDoc = document; var eplLL = false;
+            var eS1 = 'us.img.e-planning.net'; 
+            var eplArgs = { iIF: 1, sV: schemeLocal() + "://ads.us.e-planning.net/", vV: "4", sI: "ac56", sec: "Resultados", kVs: {deptoFR:'84',tranidFR:'1',catidFR:'8',ciudadFR:'',palabraFR:''}}; 
+            function eplCheckStart() {
+                if (document.epl) {
+                    var e = document.epl;
+                    if (e.eplReady()) {
+                        return true;
+                    } else {
+                        e.eplInit(eplArgs);
+                        if (eplArgs.custom) {
+                            for (var s in eplArgs.custom) {
+                                document.epl.setCustomAdShow(s, eplArgs.custom[s]);
+                            }
+                        }
+                        return e.eplReady();
+                    }
+                } else {
+                    if (eplLL) return false;
+                    if (!document.body) return false; var eS2; var dc = document.cookie;
+                    var cookieName = ('https' === schemeLocal() ? 'EPLSERVER_S' : 'EPLSERVER') + '=';
+                    var ci = dc.indexOf(cookieName);
+                    if (ci != -1) {
+                        ci += cookieName.length; var ce = dc.indexOf(';', ci);
+                        if (ce == -1) ce = dc.length;
+                        eS2 = dc.substring(ci, ce);
+                    }
+                    var eIF = document.createElement('IFRAME');
+                    eIF.src = 'about:blank'; eIF.id = 'epl4iframe'; eIF.name = 'epl4iframe';
+                    eIF.width = 0; eIF.height = 0; eIF.style.width = '0px'; eIF.style.height = '0px';
+                    eIF.style.display = 'none'; document.body.appendChild(eIF);
+
+                    var eIFD = eIF.contentDocument ? eIF.contentDocument : eIF.document;
+                    eIFD.open(); eIFD.write('&lt;html&gt;&lt;head&gt;&lt;title&gt;e-planning&lt;/title&gt;&lt;/head&gt;&lt;bo' + 'dy&gt;&lt;/bo' + 'dy&gt;&lt;/html&gt;'); eIFD.close();
+                    var s = eIFD.createElement('SCRIPT');
+                    s.src = schemeLocal() + '://' + (eS2 ? eS2 : eS1) + '/layers/epl-41.js';
+                    eIFD.body.appendChild(s);
+                    if (!eS2) {
+                        var ss = eIFD.createElement('SCRIPT');
+                        ss.src = schemeLocal() + '://ads.us.e-planning.net/egc/4/ac4d';
+                        eIFD.body.appendChild(ss);
+                    }
+                    eplLL = true;
+                    return false;
+                }
+            }
+            eplCheckStart();
+            function eplSetAd(eID) {
+                if (eplCheckStart()) {
+                    var opts = (eplArgs.sOpts &amp;&amp; eplArgs.sOpts[eID]) ? eplArgs.sOpts[eID] : {};
+                    if (opts.custF) { document.epl.setCustomAdShow(eID, opts.custF); }
+                    document.epl.setSpace(eID, opts);
+                } else {
+                    setTimeout('eplSetAd("' + eID + '");', 250);
+                }
+            }
+            function eplAD4(eID, opts) {
+                document.write('&lt;div id="eplAdDiv' + eID + '"&gt;&lt;/div&gt;');
+                if (!opts) opts = { t: 1 };
+                if (!eplArgs.sOpts) { eplArgs.sOpts = {}; }
+                eplArgs.sOpts[eID] = opts;
+                eplSetAd(eID);
+            }
+
+            function schemeLocal() {
+                if (document.location.protocol) {
+                    protocol = document.location.protocol;
+                } else {
+                    protocol = window.top.location.protocol;
+                }
+                if (protocol) {
+                    if (protocol.indexOf('https') !== -1) {
+                        return 'https';
+                    } else {
+                        return 'http';
+                    }
+                }
+            }
+        </script>
+        <script type="text/javascript">eplAD4("980x40_Expandible_Prueba", { t: 1, timeout: 0, ma: 1, custF: null, wh: "980x40", sd: "ac56!Resultados!https://ads.us.e-planning.net/!!" });</script><div id="eplAdDiv980x40_Expandible_Prueba"></div>
+        <!-- e-planning v4 - Fin espacio Fincaraiz _ Resultados _ 980x40_Expandible_Prueba -->
+        
+    </div>
+
+            
+                <!-- Area de Gestión - Botón publicar inmueble -->
+                
+
+<script>
+    var RegisteredClientId = 0;
+
+    function GetValueJson(response, i, length) {
+        var responseTmp = response.substring(i + length);
+        var lengthVar = responseTmp.indexOf(";");
+        var value = responseTmp.substring(0, lengthVar);
+        if (value.indexOf("[]") == -1)
+            return $.parseJSON(value);
+        else
+            return [];
+    }
+
+    //Inicialiaza los items de favoritos.
+    function StartFavoritesAdverts(response) {
+        setTimeout(function () {
+
+            if (typeof LaunchFavorites !== "undefined") {
+                i = response.indexOf("_favoriteAdverts=[]");
+                if (i == -1)
+                {
+                    i = response.indexOf("_favoriteAdverts=[");
+                    _favoriteAdverts = GetValueJson(response, i, 17);
+                }
+
+                if (typeof LoadGridFavorites !== "undefined")
+                    LoadGridFavorites(1);
+                else 
+                    LaunchFavorites();
+
+            }
+
+        }, 300);
+    }
+
+    function LoadHeaderASync() {
+        jQuery.ajax({
+            cache: false,
+            type: "GET",
+            url: "/HeaderV2.ashx?ButtonPublish=True&amp;Management=True&amp;LogoSize=1&amp;SocialMedia=False&amp;ClientId=",
+            dataType: "html",
+            success: function (response) {
+                $("#THV2").empty();
+                var node = document.getElementById('HeaderV2');
+                if (node != null) {
+                    node.parentNode.removeChild(node);
+                }
+
+                StartFavoritesAdverts(response);
+
+                $("#THV2").append(response);
+
+            }
+        });
+    }
+
+    LoadHeaderASync();
+    
+</script>
+
+<div id="THV2">
+
+
+
+
+<div id="HeaderV2" class="Header-PublishButton">
+    
+
+    <div class="header header1" itemscope="" itemtype="http://schema.org/WPHeader">
+        <div class="fincaraiz-branding">
+            <a class="sm-fincaraiz-logo left img_print" href="/">
+                <div class="compound-logo"></div>
+            </a>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    
+    <div class="header">
+        <!-- Area de Gestión - Botón publicar inmueble -->
+        <div class="nav no_print">
+            <div class="user-area">
+                
+
+<ul class="left link-user">
+    <li class="li-user" style="display:none">
+        
+        
+    </li>
+    
+            <li class="li-user">
+                
+                <a href="/client/Client.aspx" class="vinculo" title="Gestión personal">Regístrate <i style="display:none" class="fa fa-sort-down"></i></a>
+                
+            </li>
+        
+            <li class="li-user">
+                <img src="/App_Theme/images/user-shape.png" style="margin: -1pt;" width="auto" height="auto" />
+                <a href="/client/Client.aspx" class="vinculo" title="Gestión personal">Ingresa <i style="display:none" class="fa fa-sort-down"></i></a>
+                
+            </li>
+        
+</ul>
+
+
+
+            </div>
+        </div>
+    </div>
+    
+    <div class="PublishButton">
+        <a id="btnPriceAlert" class="button_resaltadoProm" onclick="return trackingClick(utag_data.event_name + ' - Boton Publicar','SpecificTracking')" href="/anuncios-clasificados-gratis-publicar-inmueble.aspx" title="Publique su inmueble">Publica GRATIS* en 1 paso
+        </a>
+    </div>
+    
+</div>
+</div>
+
+
+            
+            <!--MASTER CONTENT-->
+           <div> 
+    <form name="aspnetForm" method="post" action="./" id="aspnetForm" autocomplete="off">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODA0MTU4NTIzZGQKkX3fwdnF4U90v5VX0BuVw3bdhw==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="63301E89" />
+</div>
+        
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+<script type="text/javascript">
+    var recaptchasitekey = "6Lc9_RUTAAAAAEk2cOguGou6KkxtddYpK4qeKuTr";
+</script>
+<div id="LoginRegisterPanel" class="RegisterControlContent">
+    <div style="display: none">
+        
+
+<script type="text/javascript">
+    var OpenWindowFacebook = function(_url, name, w, h) {
+        var left = parseInt((screen.width / 2) - (w / 2));
+        var top = parseInt((screen.height / 2) - (h / 2) - 100);
+        var _params = "toolbar=no, location=no, modal=yes, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, width=" + w + ", height=" + h + ', top=' + top + ', left=' + left;
+        window.open(_url, name, _params);
+    }
+    var functionClickFacebook = function () {
+        OnClientClickFacebook();
+
+        window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=278151412365412&amp;redirect_uri=https://www.fincaraiz.com.co/Vivienda/venta/vichada/&amp;display=popup&amp;scope=email'; 
+
+    }
+
+    var OnClientClickFacebook = function(){
+        
+    }
+</script>
+
+<div id="btnFacebookLogin" class="login_fb">
+
+    <a onclick="functionClickFacebook();" id="lnkLoginFacebook">Ingresa con Facebook</a>
+    <div id="ctl00_phMasterPage_LoginRegister_facebookLogin_statusFB" class="errorFB"></div>
+    <input type="hidden" name="ctl00$phMasterPage$LoginRegister$facebookLogin$hddTokenFB" id="ctl00_phMasterPage_LoginRegister_facebookLogin_hddTokenFB" />
+</div>
+
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    function LoginFB(resp) {
+        var data = ReadCookieNotEncrip("LoginFacebookFlag");
+        if (data.length &gt; 0) {
+            var obj = $.parseJSON(data)
+            _favoriteAdverts = [];
+            var advertId = obj.AdvertId;
+            var isAdd = obj.isAdd;
+            FavoriteAdvert_Event(isAdd, advertId, function () {
+                LoadHeaderASync();
+                HideLoginRegisterPopup();
+                CreateCookie("LoginFacebookFlag", "", 1, false);
+            });
+        }
+    }
+
+    function CancelFB(message) {
+        alert(message);
+    }
+
+</script>
+
+<script>
+
+    //Variables del proceso
+    var advertId = '';
+    var vurl = '';
+    var contractType = 'Particular_Comprador';
+    var registerUserToken = "34F10459B5230399E9C5FE4B0B53FA137D2FDB92F078FF598ACB18A53B223FBD271B53542C32035B";
+    var rclWidgetId = "";
+
+    function LoadLoginRegisterByMode(mode, configuration) {
+
+        if (configuration != null) {
+
+            var urlBase = "/App_Modules/Client/LoginRegisterV2.ashx?mode=" + mode;
+            if (mode != "6" || mode != "7")
+                urlBase = urlBase + "&amp;Redirect=" + window.location.href;
+
+            //Consulta la estructura html dependiendo del modo.
+            jQuery.ajax({
+                cache: false,
+                type: "GET",
+                url: urlBase,
+                dataType: "html",
+                success: function (response) {
+
+                    if (mode != "6" &amp;&amp; mode != "7") {
+                        //Asigna la configuracion especifica al llamado actual
+                        CustomerConfiguration = configuration;
+
+                        //Limpia si existe una renderizacion previa.
+                        ClearLoginRegisterRender();
+
+                        //Obtiene el html que se visualizara
+                        var html = LoginRegisterRender(configuration, response);
+
+                        //Asigna el popup de ser necesario
+                        if (configuration.Popup) {
+                            LaunchLoginRegisterPopup(configuration, html);
+                        }
+                        else {
+                            //Coloca el html en el panel por defecto
+                            $("#LoginRegisterPanel").append(html);
+                        }
+
+                        //Cosas por defecto que se deban realizar
+                        Initialsteps();
+
+                        //Si tiene un evento para personalizar antes de iniciar.
+                        if (typeof configuration.InitEvent == "function") {
+                            configuration.InitEvent();
+                        }
+
+                        //Asigna los eventos y validaciones a las etiquetas generadas.
+                        SetLoginRegisterEvent(mode);
+                    }
+                    else {
+                        if (mode == "6")
+                            window.location.href = response;
+                        else {
+                            OpenWindowFacebook(response, 'LoginFacebook', 500, 250)
+                        }
+
+                    }
+                }
+            });
+        }
+        else {
+            alert("debe asignar una configuración el control");
+        }
+
+    }
+
+
+
+</script>
+
+        <div class="page-content" itemscope="" itemtype="http://schema.org/SearchResultsPage">
+            <div class="Filter-Container">
+                <div id="grid_results" class="grid_results">
+                    <script type="text/javascript">
+                        //si es por ajax, ocultamos la parrilla
+                        var semantic = window.location.hash.replace("#", "");
+                        if (semantic.indexOf("ad=") == 0) {
+                            $("#grid_results").hide();
+                        }
+                        $(document).ready(
+                            function () {
+                                var textNoResults = '';
+
+                                if (textNoResults != '') {
+                                    if ('7' == 0) {
+                                        $("#AjaxNoAdverts").html("Hoy no tenemos inmuebles que coincidan con su búsqueda de: &lt;b&gt;" + textNoResults + "&lt;/b&gt;. Consulte nuestro listado para encontrar más inmuebles: &lt;a href='/todos/venta/colombia/index.aspx?ad=30|1||||1||||||||||||||||||||||||||||||'&gt;Anuncios de Finca Raíz en Colombia&lt;/a&gt;");
+                                        $("#AjaxNoAdverts").show();
+                                    }
+                                    else
+                                    {
+                                        $("#AjaxNoAdverts").html(htmlNoAdverts.replace("{fulltitle}", textNoResults));
+                                        $("#AjaxNoAdverts").show();
+                                    }
+                                }
+                            }
+                    );
+                    </script>
+                    <!--este div lo utilizamos cuando las consultas se hacen por ajax -->
+                    <div id="AjaxNoAdverts" class="noAdverts" style="display: none"></div>
+                </div>
+                <div class="ResultsTitle">
+                    <h5>INMUEBLES COMERCIALES</h5>
+                </div>
+                <div class="box_top_Galery" style="display: none !important;">
+                    <!-- fotogalería -->
+                    <div id="divPhotoGallery" class="GalleryContent"></div>
+                </div>
+                <div id="divBreadcrumbResults" class="breadcrumb">
+                    
+<div>
+    <ul class="fa-ul">
+         
+                <li>
+                    <a href="/">Inicio</a>
+                   
+                </li>          
+                 <i class="fa fa-angle-right" style="margin:0px 0px; font-size: 12px;"></i>      
+                
+        <li>
+            <a>Vichada</a>
+        </li>
+    </ul>
+</div>
+
+                </div>
+                <!-- título y botón publicar-->
+                <h1 class="result_title" itemprop="headline">
+                    <span id="lblNumInm">7 </span><span id="lblResultTop">Anuncios de Finca Raíz en Venta en Vichada</span>
+                </h1>
+                <!--Links de Barrios-->
+                <div id="divLinkNeighborhoodsCtrl" class="neighbords">
+                    
+                </div>
+                <!-- breadcrumb localizaciones-->
+                <div class="box_top">
+                    <div id="gridLocations" class="LocationsContent">
+                        
+<div id="LocationsBreadcrumbFilters" autocomplete="off">
+    <div class="navbar-form" id="olBCFilters" style="position: relative; float: left;">
+        
+                
+                <div class="form-group" style="float: left; width: 219px; margin-left: -1px;">
+                    <div class="form-control">
+                        <div class="dropdown-check-list">
+                            <div class="anchor" onclick="OpenItemOptionsLocations(this);">
+                                <a href="/Vivienda/venta/vichada/" onclick="return false;">Vichada</a>
+                            </div>
+                            <div class="ContentCollapse">
+                                <div class="drop">
+                                    <ul class="items">
+                                        <div class="scrollable">
+                                            
+                                                    
+                                                    <li title="Apartamentos  en Venta en Cundinamarca" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="67" parentlevel="0" locationname="Cundinamarca" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/cundinamarca/">Cundinamarca</a>
+                                                        <span class="gray">(90334)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Antioquia" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="55" parentlevel="0" locationname="Antioquia" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/antioquia/">Antioquia</a>
+                                                        <span class="gray">(42608)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Valle del Cauca" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="82" parentlevel="0" locationname="Valle del Cauca" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/valle-del-cauca/">Valle del Cauca</a>
+                                                        <span class="gray">(18925)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Atlántico" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="57" parentlevel="0" locationname="Atlántico" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/atlantico/">Atlántico</a>
+                                                        <span class="gray">(15996)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Caldas" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="60" parentlevel="0" locationname="Caldas" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/caldas/">Caldas</a>
+                                                        <span class="gray">(9529)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Santander" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="75" parentlevel="0" locationname="Santander" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/santander/">Santander</a>
+                                                        <span class="gray">(8546)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Risaralda" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="78" parentlevel="0" locationname="Risaralda" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/risaralda/">Risaralda</a>
+                                                        <span class="gray">(7462)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Bolívar" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="58" parentlevel="0" locationname="Bolívar" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/bolivar/">Bolívar</a>
+                                                        <span class="gray">(6133)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Quindío" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="77" parentlevel="0" locationname="Quindío" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/quindio/">Quindío</a>
+                                                        <span class="gray">(4179)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Norte Santander" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="85" parentlevel="0" locationname="Norte Santander" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/norte-santander/">Norte Santander</a>
+                                                        <span class="gray">(4105)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Tolima" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="81" parentlevel="0" locationname="Tolima" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/tolima/">Tolima</a>
+                                                        <span class="gray">(3997)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Meta" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="73" parentlevel="0" locationname="Meta" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/meta/">Meta</a>
+                                                        <span class="gray">(2612)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Magdalena" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="72" parentlevel="0" locationname="Magdalena" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/magdalena/">Magdalena</a>
+                                                        <span class="gray">(2606)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Boyacá" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="59" parentlevel="0" locationname="Boyacá" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/boyaca/">Boyacá</a>
+                                                        <span class="gray">(2251)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Nariño" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="74" parentlevel="0" locationname="Nariño" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/nariño/">Nariño</a>
+                                                        <span class="gray">(1008)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Huila" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="70" parentlevel="0" locationname="Huila" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/huila/">Huila</a>
+                                                        <span class="gray">(829)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Córdoba" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="66" parentlevel="0" locationname="Córdoba" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/cordoba/">Córdoba</a>
+                                                        <span class="gray">(571)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Cesar" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="64" parentlevel="0" locationname="Cesar" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/cesar/">Cesar</a>
+                                                        <span class="gray">(554)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Cauca" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="63" parentlevel="0" locationname="Cauca" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/cauca/">Cauca</a>
+                                                        <span class="gray">(533)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Casanare" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="62" parentlevel="0" locationname="Casanare" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/casanare/">Casanare</a>
+                                                        <span class="gray">(338)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Sucre" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="80" parentlevel="0" locationname="Sucre" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/sucre/">Sucre</a>
+                                                        <span class="gray">(149)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en La guajira" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="71" parentlevel="0" locationname="La guajira" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/la-guajira/">La guajira</a>
+                                                        <span class="gray">(63)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Caquetá" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="61" parentlevel="0" locationname="Caquetá" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/caqueta/">Caquetá</a>
+                                                        <span class="gray">(51)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en San Andres y Providencia" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="79" parentlevel="0" locationname="San Andres y Providencia" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/san-andres-y-providencia/">San Andres y Providencia</a>
+                                                        <span class="gray">(39)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Amazonas" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="54" parentlevel="0" locationname="Amazonas" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/amazonas/">Amazonas</a>
+                                                        <span class="gray">(38)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Arauca" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="56" parentlevel="0" locationname="Arauca" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/arauca/">Arauca</a>
+                                                        <span class="gray">(27)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Vichada" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" checked="" binding="Location1Id" value="84" parentlevel="0" locationname="Vichada" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/vichada/">Vichada</a>
+                                                        <span class="gray">(27)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Putumayo" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="76" parentlevel="0" locationname="Putumayo" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/putumayo/">Putumayo</a>
+                                                        <span class="gray">(14)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Chocó" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="65" parentlevel="0" locationname="Chocó" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/choco/">Chocó</a>
+                                                        <span class="gray">(10)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Guainía" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="68" parentlevel="0" locationname="Guainía" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/guainia/">Guainía</a>
+                                                        <span class="gray">(8)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Guaviare" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="69" parentlevel="0" locationname="Guaviare" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/guaviare/">Guaviare</a>
+                                                        <span class="gray">(7)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Vaupés" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location1Id" value="83" parentlevel="0" locationname="Vaupés" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/vaupes/">Vaupés</a>
+                                                        <span class="gray">(2)</span>
+                                                    </li>
+                                                
+                                        </div>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+                
+                <div class="form-group" style="float: left; width: 219px; margin-left: -1px;">
+                    <div class="form-control">
+                        <div class="dropdown-check-list">
+                            <div class="anchor" onclick="OpenItemOptionsLocations(this);">
+                                <a href="/Vivienda/venta/vichada/" onclick="return false;">Seleccione Ciudad</a>
+                            </div>
+                            <div class="ContentCollapse">
+                                <div class="drop">
+                                    <ul class="items">
+                                        <div class="scrollable">
+                                            
+                                                    
+                                                    <li title="Apartamentos  en Venta en Puerto Carreño" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location2Id" value="8400003" parentlevel="84" locationname="Puerto Carreño" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/puerto-carreño/">Puerto Carreño</a>
+                                                        <span class="gray">(4)</span>
+                                                    </li>
+                                                
+                                                    
+                                                    <li title="Apartamentos  en Venta en Otros municipios" onclick="return ToggleCheckFromAnchor(this , event);" class="other_check">
+                                                        <input type="checkbox" binding="Location2Id" value="8400002" parentlevel="84" locationname="Otros municipios" class="itemCheck" autocomplete="off" />
+                                                        <a class="locationItemLnk" href="/Vivienda/venta/otros-municipios/vichada/">Otros municipios</a>
+                                                        <span class="gray">(3)</span>
+                                                    </li>
+                                                
+                                        </div>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+        <div id="ctl00_phMasterPage_LocationsBreadcrumb_NbhoodSearch" class="form-group" style="float: left; width: 219px; margin-left: -1px; position: relative;" disabled="disabled">
+            <input id="txtNbhood" list="list_donde" type="text" placeholder="Digita un barrio" class="form-control" value="" binding="Neighborhood" autocomplete="off" onclick="if ($(this).val() == '') { $(this).css('color', '#000'); } else { this.select(); };" onblur="if($(this).val()==''){;$(this).css('color','rgb(21, 36, 93)');};" />
+            <span id="btnClearNbhood" style="float: left; margin-left: -1px; position: absolute; top: 3px; right: -4px; display: none;"><i class="fa close" onclick="CleanNbhood(true)"></i></span>
+        </div>
+        <div id="BtnSearchBreadcrumb" onclick="SearchByButtom()" class="btn-search" style="cursor: pointer;"><i class="fa fa-search"></i>Buscar</div>
+    </div>
+</div>
+<script type="text/javascript">
+    LoadBreadcrumbFilterEvents();
+    $(document).ready(function () {
+        if (!(typeof AjaxEnabled !== "undefined" &amp;&amp; AjaxEnabled)) {
+            var ctrl = $("#olBCFilters");
+            ctrl.addClass("NoAjax");
+            ctrl.removeClass("Ajax");
+        }
+
+        //evento keyUp sobre txtNbhood
+        //al presionar Enter, lanza la busqueda
+        $("#txtNbhood").keyup(function (event) {
+            var Value = $(this).val();
+            //si presiona la tecla enter
+            BtnClearWard(Value);
+
+            if (event.keyCode == 13) {
+                FindAdvertNbhood();
+            }
+        });
+
+        BtnClearWard($("#txtNbhood").val());
+    });
+    //function SetNbhoodDefault() {
+    //    var ctrl = $("#txtNbhood");
+    //    ctrl.val(ctrl.attr("default")).css('color', 'rgb(21, 36, 93)');
+    //}
+    function ToggleCheckFromAnchor(item, event) {
+        trackingAlreadyCalled = false;
+        if (typeof AjaxEnabled !== "undefined" &amp;&amp; AjaxEnabled) {
+            var chks = (($(item).is('a') == true) ? $(item).parent().find("input[type='checkbox']") : $(item).find("input[type='checkbox']"));
+            if (chks.length &gt; 0) {
+                var chk = $(chks[0]);
+                if ($(event.target).is('input') == false) {
+                    chk.attr('checked', !chk.attr('checked'));
+                }
+                chk.attr("changed", "true");
+            }
+            CleanNbhood(false);
+            var CtrlParent = $(item).closest('.dropdown-check-list');
+            if ($(CtrlParent).length &gt; 0 &amp;&amp; $(CtrlParent).find('input[type="checkbox"][binding="Location3Id"]').length &gt; 0) {
+                ChangeTextSelection(CtrlParent, 'input[type="checkbox"][binding="Location3Id"]:checked');
+            }
+            var ReturnValue = ($(event.target).is('a') == true) ? false : true;
+            if (QuebeFindCall != undefined) { QuebeFindBreadCrumbCall(item, 1000); }
+            return ReturnValue;
+        }
+        else {
+            return true;
+        }
+    }
+
+    function ChangeTextSelection(item, SelectorChilds) {
+        var SelectedItems = $(item).find(SelectorChilds);
+        var Textanchor = (($(SelectedItems).length == 1) ? $(SelectedItems[0]).attr('locationname') : (($(SelectedItems).length &gt; 1) ? $(SelectedItems[0]).attr('locationname') + ", " + $(SelectedItems[1]).attr('locationname') : "Seleccione Zona"));
+        $(item).find('.anchor').find('a').text(Textanchor);
+    }
+
+    function CleanNbhood(ExecuteSearch) {
+        $("#txtNbhood").val('');
+        $("#btnClearNbhood").css("display", "none");
+        if (ExecuteSearch == true) { FindAdvertNbhood(); }
+    }
+
+    function FindAdvertNbhood() {
+        var txtNbh = $("#txtNbhood");
+        if (txtNbh.val() != "") {
+            sfFind.Neighborhood = ValidIlegalCharacters(txtNbh.val());
+            trackingClick("Results - Buscar por Barrio", "SpecificTracking");
+        }
+        else {
+            sfFind.Neighborhood = "";
+        }
+        //var urlRedirect = window.location.pathname + "?" + toSemantic(sfFind);
+        //RedirectTo(urlRedirect);
+        window.vmResults.FindAdvertsFacet('');
+    }
+
+    function BtnClearWard(MyValue) {
+        if (MyValue == undefined || MyValue == "" || MyValue.length &lt;= 0) {
+            $("#btnClearNbhood").css("display", "none");
+        }
+        else {
+            if ($("#btnClearNbhood").css("display") == "none") { $("#btnClearNbhood").css("display", "block"); }
+        }
+    }
+</script>
+
+                    </div>
+                </div>
+                <!-- paginador -->
+                
+            </div>
+            <!--content-->
+            <!--div mail tipos parrilla y paginado-->
+            <div class="Grid">
+                
+                <!--div filtros y pestañas -->
+                <div>
+                    <!--filtros-->
+                    
+<script type="text/javascript">
+    var listTransactionTypes = [{ "optionValue": 1, "optionDisplay": "Venta" },{ "optionValue": 1, "optionDisplay": "Proyectos Nuevos" },{ "optionValue": 2, "optionDisplay": "Arriendo" },{ "optionValue": 3, "optionDisplay": "Alquiler Vacacional" }];
+    var listTransactionSaleMinPrice = [{ "optionValue": 0, "optionDisplay": "0 Pesos" },{ "optionValue": 20000000, "optionDisplay": "20 Millones" },{ "optionValue": 40000000, "optionDisplay": "40 Millones" },{ "optionValue": 60000000, "optionDisplay": "60 Millones" },{ "optionValue": 80000000, "optionDisplay": "80 Millones" },{ "optionValue": 100000000, "optionDisplay": "100 Millones" },{ "optionValue": 140000000, "optionDisplay": "140 Millones" },{ "optionValue": 200000000, "optionDisplay": "200 Millones" },{ "optionValue": 260000000, "optionDisplay": "260 Millones" },{ "optionValue": 300000000, "optionDisplay": "300 Millones" },{ "optionValue": 500000000, "optionDisplay": "500 Millones" }];
+    var listTransactionSaleMaxPrice = [{ "optionValue": 0, "optionDisplay": "Todos" },{ "optionValue": 20000000, "optionDisplay": "20 Millones" },{ "optionValue": 40000000, "optionDisplay": "40 Millones" },{ "optionValue": 60000000, "optionDisplay": "60 Millones" },{ "optionValue": 80000000, "optionDisplay": "80 Millones" },{ "optionValue": 100000000, "optionDisplay": "100 Millones" },{ "optionValue": 140000000, "optionDisplay": "140 Millones" },{ "optionValue": 200000000, "optionDisplay": "200 Millones" },{ "optionValue": 260000000, "optionDisplay": "260 Millones" },{ "optionValue": 300000000, "optionDisplay": "300 Millones" },{ "optionValue": 500000000, "optionDisplay": "500 Millones" },{ "optionValue": -1, "optionDisplay": "+500 Millones" }];
+    var listTransactionRentMinPrice = [{ "optionValue": 0, "optionDisplay": "0 Pesos" },{ "optionValue": 100000, "optionDisplay": "100 Mil" },{ "optionValue": 300000, "optionDisplay": "300 Mil" },{ "optionValue": 500000, "optionDisplay": "500 Mil" },{ "optionValue": 800000, "optionDisplay": "800 Mil" },{ "optionValue": 1000000, "optionDisplay": "1 Millón" },{ "optionValue": 2500000, "optionDisplay": "2.5 Millones" },{ "optionValue": 4000000, "optionDisplay": "4 Millones" }];
+    var listTransactionRentMaxPrice = [{ "optionValue": 0, "optionDisplay": "Todos" },{ "optionValue": 100000, "optionDisplay": "100 Mil" },{ "optionValue": 300000, "optionDisplay": "300 Mil" },{ "optionValue": 500000, "optionDisplay": "500 Mil" },{ "optionValue": 800000, "optionDisplay": "800 Mil" },{ "optionValue": 1000000, "optionDisplay": "1 Millón" },{ "optionValue": 1500000, "optionDisplay": "1.5 Millones" },{ "optionValue": 2000000, "optionDisplay": "2 Millones" },{ "optionValue": 2500000, "optionDisplay": "2.5 Millones" },{ "optionValue": 3000000, "optionDisplay": "3 Millones" },{ "optionValue": 4000000, "optionDisplay": "4 Millones" },{ "optionValue": -1, "optionDisplay": "+4 Millones" }];
+    var listTransactionVacationMinPrice = [{ "optionValue": 0, "optionDisplay": "0 Pesos" },{ "optionValue": 100000, "optionDisplay": "100 Mil" },{ "optionValue": 300000, "optionDisplay": "300 Mil" },{ "optionValue": 500000, "optionDisplay": "500 Mil" },{ "optionValue": 800000, "optionDisplay": "800 Mil" },{ "optionValue": 1000000, "optionDisplay": "1 Millón" },{ "optionValue": 2500000, "optionDisplay": "2.5 Millones" },{ "optionValue": 4000000, "optionDisplay": "4 Millones" }];
+    var listTransactionVacationMaxPrice = [{ "optionValue": 0, "optionDisplay": "Todos" },{ "optionValue": 100000, "optionDisplay": "100 Mil" },{ "optionValue": 300000, "optionDisplay": "300 Mil" },{ "optionValue": 500000, "optionDisplay": "500 Mil" },{ "optionValue": 800000, "optionDisplay": "800 Mil" },{ "optionValue": 1000000, "optionDisplay": "1 Millón" },{ "optionValue": 1500000, "optionDisplay": "1.5 Millones" },{ "optionValue": 2000000, "optionDisplay": "2 Millones" },{ "optionValue": 2500000, "optionDisplay": "2.5 Millones" },{ "optionValue": 3000000, "optionDisplay": "3 Millones" },{ "optionValue": 4000000, "optionDisplay": "4 Millones" },{ "optionValue": -1, "optionDisplay": "+4 Millones" }];
+    var listCategoryParkingMinPrice = [{ "optionValue": 0, "optionDisplay": "0 Pesos" },{ "optionValue": 10000, "optionDisplay": "10 Mil" },{ "optionValue": 40000, "optionDisplay": "40 Mil" },{ "optionValue": 60000, "optionDisplay": "60 Mil" },{ "optionValue": 80000, "optionDisplay": "80 Mil" },{ "optionValue": 100000, "optionDisplay": "100 Mil" },{ "optionValue": 140000, "optionDisplay": "140 Mil" },{ "optionValue": 200000, "optionDisplay": "200 Mil" },{ "optionValue": 260000, "optionDisplay": "260 Mil" },{ "optionValue": 300000, "optionDisplay": "300 Mil" },{ "optionValue": 500000, "optionDisplay": "500 Mil" },{ "optionValue": 800000, "optionDisplay": "800 Mil" },{ "optionValue": 1000000, "optionDisplay": "1 Millón" },{ "optionValue": 2500000, "optionDisplay": "2.5 Millones" },{ "optionValue": 4000000, "optionDisplay": "4 Millones" }];
+    var listCategoryParkingMaxPrice = [{ "optionValue": 0, "optionDisplay": "Todos" },{ "optionValue": 10000, "optionDisplay": "10 Mil" },{ "optionValue": 40000, "optionDisplay": "40 Mil" },{ "optionValue": 60000, "optionDisplay": "60 Mil" },{ "optionValue": 80000, "optionDisplay": "80 Mil" },{ "optionValue": 100000, "optionDisplay": "100 Mil" },{ "optionValue": 140000, "optionDisplay": "140 Mil" },{ "optionValue": 200000, "optionDisplay": "200 Mil" },{ "optionValue": 260000, "optionDisplay": "260 Mil" },{ "optionValue": 300000, "optionDisplay": "300 Mil" },{ "optionValue": 500000, "optionDisplay": "500 Mil" },{ "optionValue": 800000, "optionDisplay": "800 Mil" },{ "optionValue": 1000000, "optionDisplay": "1 Millón" },{ "optionValue": 2500000, "optionDisplay": "2.5 Millones" },{ "optionValue": 4000000, "optionDisplay": "4 Millones" }];
+    var PresentTransaction = "Venta";
+    var PresentCategory = "";
+    var listFacets = [{data:[{Id:"7",Name:"Finca",Dictionary:"Category1Id",Count:"20"},{Id:"2",Name:"Lote",Dictionary:"Category1Id",Count:"5"},{Id:"9",Name:"Casa",Dictionary:"Category1Id",Count:"2"}],"info":"CategoryAdvert"},{data:[{Id:"2",Name:"1 a 8 años",Dictionary:"AgeId",Count:"1"},{Id:"4",Name:"16 a 30 años",Dictionary:"AgeId",Count:"1"}],"info":"AgeAdvert"},{data:[{Id:"0",Name:"Sin Especificar",Dictionary:"ExtrasId",Count:"5"},{Id:"195",Name:"Lote Vacio",Dictionary:"ExtrasId",Count:"2"},{Id:"199",Name:"Área Rural",Dictionary:"ExtrasId",Count:"2"},{Id:"200",Name:"Área Urbana",Dictionary:"ExtrasId",Count:"2"},{Id:"202",Name:"Cerca a sector comercial",Dictionary:"ExtrasId",Count:"2"},{Id:"126",Name:"Vista panorámica",Dictionary:"ExtrasId",Count:"1"},{Id:"196",Name:"Industrial",Dictionary:"ExtrasId",Count:"1"},{Id:"201",Name:"Esquinero",Dictionary:"ExtrasId",Count:"1"},{Id:"244",Name:"Bahias de parqueo",Dictionary:"ExtrasId",Count:"1"}],"info":"ExtrasAdvert"},{data:[{Id:"10/23/2018 12:00:00 AM",Name:"Últimos 3 días",Dictionary:"GridDate",Count:"1"},{Id:"10/19/2018 12:00:00 AM",Name:"Últimos 7 días",Dictionary:"GridDate",Count:"1"},{Id:"10/26/2018 12:00:00 AM",Name:"Hoy",Dictionary:"GridDate",Count:"0"}],"info":"GridDateAdvert"},{data:[{Id:"3",Name:"Inmuebles con foto",Dictionary:"NumPhotos",Count:"7"},{Id:"4",Name:"Mi casa ya",Dictionary:"ProductCode",Count:"0"}],"info":"OtherFiltersAdvert"},{data:[{Id:"",Name:"",Dictionary:"GroupName",Count:"7"}],"info":"GroupNameAdvert"},{data:[{Id:"1",Name:"1",Dictionary:"StratumId",Count:"3"},{Id:"",Name:"",Dictionary:"StratumId",Count:"1"},{Id:"2",Name:"2",Dictionary:"StratumId",Count:"1"},{Id:"4",Name:"4",Dictionary:"StratumId",Count:"1"},{Id:"5",Name:"5",Dictionary:"StratumId",Count:"1"}],"info":"StratumAdvert"}];
+    var listPriceTypes = [{ "optionValue": 1, "optionDisplay": "Costo mensual" },{ "optionValue": 2, "optionDisplay": "Costo diario" }];
+    var listEnvironments = [{ "optionValue": 1, "optionDisplay": "1" },{ "optionValue": 2, "optionDisplay": "2" },{ "optionValue": 3, "optionDisplay": "3" },{ "optionValue": 4, "optionDisplay": "4+" }];
+    var listRomms = [{ "optionValue": 1, "optionDisplay": "1" },{ "optionValue": 2, "optionDisplay": "2" },{ "optionValue": 3, "optionDisplay": "3" },{ "optionValue": 4, "optionDisplay": "4+" }];
+    var listBathRomms = [{ "optionValue": 1, "optionDisplay": "1" },{ "optionValue": 2, "optionDisplay": "2" },{ "optionValue": 3, "optionDisplay": "3" },{ "optionValue": 4, "optionDisplay": "4+" }];
+    var listSurfaceFrom = [{ "optionValue": 0, "optionDisplay": "Seleccione" },{ "optionValue": 20, "optionDisplay": "20 m2" },{ "optionValue": 60, "optionDisplay": "60 m2" },{ "optionValue": 100, "optionDisplay": "100 m2" },{ "optionValue": 200, "optionDisplay": "200 m2" },{ "optionValue": 260, "optionDisplay": "260 m2" },{ "optionValue": 500, "optionDisplay": "500 m2" },{ "optionValue": 560, "optionDisplay": "560 m2" },{ "optionValue": 1000, "optionDisplay": "1000 m2" }];
+    var listSurfaceTo = [{ "optionValue": 0, "optionDisplay": "Seleccione" },{ "optionValue": 20, "optionDisplay": "20 m2" },{ "optionValue": 60, "optionDisplay": "60 m2" },{ "optionValue": 100, "optionDisplay": "100 m2" },{ "optionValue": 200, "optionDisplay": "200 m2" },{ "optionValue": 260, "optionDisplay": "260 m2" },{ "optionValue": 500, "optionDisplay": "500 m2" },{ "optionValue": 560, "optionDisplay": "560 m2" },{ "optionValue": 1000, "optionDisplay": "1000 m2" },{ "optionValue": -1, "optionDisplay": "+1000 m2" }];
+    var listParkingSize = [{ "optionValue": 278, "optionDisplay": "Pequeño" },{ "optionValue": 279, "optionDisplay": "Mediano" },{ "optionValue": 280, "optionDisplay": "Grande" }];
+    var listParkingAvailability = [{ "optionValue": 281, "optionDisplay": "Lunes" },{ "optionValue": 282, "optionDisplay": "Martes" },{ "optionValue": 283, "optionDisplay": "Miercoles" },{ "optionValue": 284, "optionDisplay": "Jueves" },{ "optionValue": 285, "optionDisplay": "Viernes" },{ "optionValue": 286, "optionDisplay": "Sabado" },{ "optionValue": 287, "optionDisplay": "Domingo" }];
+    var ParentCategory = 1;
+
+    function InitializeViewModelFilters() {
+        ko.options.useOnlyNativeEvents = true;
+        if (typeof (window.vmResults) == "undefined") { window.vmResults = new AdvertResultsViewModel(); };
+        UpdateCountersTransactionTypes();
+        if (PresentTransaction == "Venta") {
+            window.vmResults.init(listTransactionTypes, listFacets, listPriceTypes, listTransactionSaleMinPrice, listTransactionSaleMaxPrice, listEnvironments, listRomms, listBathRomms, listSurfaceFrom, listSurfaceTo, listParkingSize, listParkingAvailability, sfFind, ParentCategory);
+        }
+        else if (PresentTransaction == "Arriendo") {
+            if (PresentCategory == "24") {
+                window.vmResults.init(listTransactionTypes, listFacets, listPriceTypes, listCategoryParkingMinPrice, listCategoryParkingMaxPrice, listEnvironments, listRomms, listBathRomms, listSurfaceFrom, listSurfaceTo, listParkingSize, listParkingAvailability, sfFind, ParentCategory);
+            }
+            else {
+                window.vmResults.init(listTransactionTypes, listFacets, listPriceTypes, listTransactionRentMinPrice, listTransactionRentMaxPrice, listEnvironments, listRomms, listBathRomms, listSurfaceFrom, listSurfaceTo, listParkingSize, listParkingAvailability, sfFind, ParentCategory);
+            }
+        }
+        else if (PresentTransaction == "Alquiler_Vacacional") {
+            window.vmResults.init(listTransactionTypes, listFacets, listPriceTypes, listTransactionVacationMinPrice, listTransactionVacationMaxPrice, listEnvironments, listRomms, listBathRomms, listSurfaceFrom, listSurfaceTo, listParkingSize, listParkingAvailability, sfFind, ParentCategory);
+        }
+        else {
+            window.vmResults.init(listTransactionTypes, listFacets, listPriceTypes, listTransactionVacationMinPrice, listTransactionVacationMaxPrice, listEnvironments, listRomms, listBathRomms, listSurfaceFrom, listSurfaceTo, listParkingSize, listParkingAvailability, sfFind, ParentCategory);
+        }
+        if (!!ko.dataFor(document.getElementById("FiltersKnockOut")) == false) { ko.applyBindings(window.vmResults); }
+    }
+
+    function UpdateCountersTransactionTypes() {
+        if (listTransactionTypes != undefined &amp;&amp; listTransactionTypes.filter(function (obj) { return obj.optionDisplay == "Venta"; }).length &gt; 0) { listTransactionTypes.filter(function (obj) { return obj.optionDisplay == "Venta"; })[0].optionCount = "7"; }
+        if (listTransactionTypes != undefined &amp;&amp; listTransactionTypes.filter(function (obj) { return obj.optionDisplay == "Proyectos Nuevos"; }).length &gt; 0) { listTransactionTypes.filter(function (obj) { return obj.optionDisplay == "Proyectos Nuevos"; })[0].optionCount = "0"; }
+        if (listTransactionTypes != undefined &amp;&amp; listTransactionTypes.filter(function (obj) { return obj.optionDisplay == "Arriendo"; }).length &gt; 0) { listTransactionTypes.filter(function (obj) { return obj.optionDisplay == "Arriendo"; })[0].optionCount = "0"; }
+        if (listTransactionTypes != undefined &amp;&amp; listTransactionTypes.filter(function (obj) { return obj.optionDisplay == "Alquiler Vacacional"; }).length &gt; 0) { listTransactionTypes.filter(function (obj) { return obj.optionDisplay == "Alquiler Vacacional"; })[0].optionCount = "1"; }
+    }
+
+</script>
+<div id="FiltersKnockOut" class="Filter-Container" style="width: 182px; margin: 10px 2px 0 0; clear: both; float: left; position: relative;">
+    <div class="filters">
+        <div class="filter_items" style="padding: 0px 0px 0px 0px;">
+            <div class="alert-box">
+                <span>Te ayudamos a <strong>
+                    <br />
+                    buscar</strong> tu inmueble</span>
+                <div class="center">
+                    
+                    <a id="btnPriceAlert" class="button" href="javascript:Alert24x7(0)" title="">Registrate</a>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="filter_items">
+            <div style="display: none;" class="title_filters">¡Filtrar aqui!</div>
+            <!--summary-->
+            <div class="tags" style="display: none;">
+                <div class="content" data-bind="foreach: Filters().ChosenFilters()">
+                    <span data-bind="text: Text, title: Text,event: { click: callBackFill }, css: Custom"></span>
+                </div>
+            </div>
+        </div>
+        <!--Busqueda por Palabra-->
+        <div class="filter_items">
+            <div class="input-group">
+                <input id="txtSearch" type="text" onclick="this.select()" placeholder="Buscar por palabra" data-bind="    textInput: Filters().Word" style="text-align: left;" />
+                <div data-bind="click: FindAdvertByWord" class="searchBtnText">
+                    <span><i class="fa fa-search ico_word"></i></span>
+                </div>
+            </div>
+        </div>
+        <!--Tipo de Oferta-->
+        <div id="divOfertType" class="filter_items offer collapse">
+            <div class="TitleContent">
+                <span class="title_box">Tipo de oferta</span><i class="btn_collapse fa fa-minus-square"></i>
+            </div>
+            <div class="ContentCollapse" style="display: block;" data-bind="visible: Filters().OfertType().filter(function (obj, inx, arr) { return obj.Visible() == true &amp;&amp; obj.Count() &gt; 0 &amp;&amp; obj.GroupType != '2'})">
+                <ul class="items" data-bind="foreach: Filters().OfertType().filter(function (obj, inx, arr) { return obj.Visible() == true &amp;&amp; obj.Count() &gt; 0 &amp;&amp; obj.GroupType != '2'})">
+                    <li class="other_check">
+                        <div data-bind="event: { click: $root.Filters().changeOfertType }">
+                            <input type="radio" data-bind="attr: { value: Valor, alt: Name, checked: Selected(),  group: 'OfertType'}" />
+                            <label>
+                                <span data-bind="text: (Name + ' ' + Alias), title: Name"></span>
+                                <span class="gray" data-bind="text: CountToShow"></span>
+                            </label>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div data-bind="visible:Filters().OfertType().filter(function (obj) { return obj.Visible() == true &amp;&amp; obj.Count() &gt; 0 &amp;&amp; obj.GroupType =='2'; }).length &gt; 0">
+                <ul id="facet_ProyectosNuevos" class="items" facet="ProyectosNuevos" data-bind="foreach: Filters().OfertType().filter(function (obj) { return obj.Visible() == true &amp;&amp; obj.Count() &gt; 0 &amp;&amp; obj.GroupType =='2'; })">
+                    <li class="other_check" data-bind="event: { click: $root.Filters().chosenOnlyNewProyect }">
+                        <div class="proyectos_nuevos" style="cursor: pointer;">
+                            <input id="chkProyectosNuevos" type="checkbox" data-bind="attr: { value: Valor, alt: Name, checked: $root.Filters().OnlyNewProyects() }, css: { checkbox_complete: $root.Filters().OnlyNewProyects() }" style="cursor: inherit;" value="1" alt="Proyectos Nuevos" />
+                            <label data-bind="text: 'Ver Proyectos nuevos', title: Name" style="cursor: inherit; font-size: 12px !important; margin-bottom: 2px;">Ver Proyectos nuevos</label>
+                            <i data-bind="visible: GroupType =='2'" style="float: right; margin: 6px -2px 2px 2px; color: #06C;" class="ico icon-conjunto"></i>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!--Caracteristicas Precio, Dispinibilidad, Tamaño-->
+        <div id="ctl00_phMasterPage_Filters2_contentFeatures">
+            <div class="filter_items collapse">
+                <div class="TitleContent">
+                    <span class="title_box">Precio</span><i class="btn_collapse fa fa-minus-square"></i>
+                </div>
+                <div class="ContentCollapse" style="display: block;">
+                    <div id="divPriceType" class="filter_items" data-bind="visible: Filters().PriceType().length &gt; 0 &amp;&amp; Filters().ShowParkingFilters() == true" style="display: none;">
+                        <ul id="facet_PriceType" class="items" style="position: relative;" data-bind="foreach: Filters().PriceType()">
+                            <li class="other_check" data-bind="event: { click: $root.Filters().chosenPriceType }, attr: { title: Name }">
+                                <div data-bind="attr: { title: Name }">
+                                    <input type="checkbox" data-bind="attr: { value: Valor, alt: Name, checked: Selected() }" style="cursor: inherit;" autocomplete="off" />
+                                    <label data-bind="text: Name, title: Name" style="cursor: inherit;"></label>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="input-group">
+                        <input id="priceFromFilter" type="text" placeholder="Desde $" data-bind="textInput: Filters().chosenPriceFrom" maxlength="16" autocomplete="off" />
+                        <span><i class="fa close" data-bind="visible: Filters().chosenPriceFrom() != undefined &amp;&amp; Filters().chosenPriceFrom() != '', event: { click: function () { $root.Filters().chosenPriceFrom(''); $root.FindAdverts(); } }"></i></span>
+                    </div>
+                    <div class="input-group">
+                        <input id="priceToFilter" type="text" placeholder="Hasta $" data-bind="textInput: Filters().chosenPriceTo, style: { 'border-color': Filters().chosenPriceRangeGuard() == true ? '#CCCCCC' : '#CE2323' } " maxlength="16" autocomplete="off" />
+                        <span><i class="fa close" data-bind="visible: Filters().chosenPriceTo() != undefined &amp;&amp; Filters().chosenPriceTo() != '', event: { click: function () { $root.Filters().chosenPriceTo(''); $root.FindAdverts(); } }"></i></span>
+                    </div>
+                </div>
+            </div>
+            <!--Categorias-->
+            <div data-bind="visible: Filters().CategoryAdvert().length &gt; 0" class="filter_items collapse">
+                <div class="TitleContent">
+                    <span class="title_box">Tipo de Inmueble</span><i class="btn_collapse fa fa-minus-square"></i>
+                </div>
+                <div class="ContentCollapse" style="display: block;">
+                    <ul id="facet_CategoryAdvert" facet="CategoryAdvert" class="items" data-bind="foreach: Filters().CategoryAdvert()">
+                        <li class="other_check" data-bind="event: { click: function (Facet, event) { Facet.SelectItem(Facet, event); QuebeFindCall(1000); } }">
+                            <div>
+                                <input type="checkbox" data-bind="attr: { value: Id, alt: Name, checked: Selected() }, css: { checkbox_complete: Selected() }" style="cursor: inherit;" autocomplete="off" />
+                                <label data-bind="text: ShortName, title: Name" style="cursor: inherit;"></label>
+                                <span class="gray" data-bind="text: CountToShow"></span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="divGroupAvailability" class="filter_items collapse" data-bind="visible: Filters().ExtrasParkingAvailability().length &gt; 0 &amp;&amp; Filters().ShowParkingFilters() == true">
+                <div class="TitleContent">
+                    <span class="title_box">Disponiblidad</span><i class="btn_collapse fa fa-plus-square"></i>
+                </div>
+                <div class="ContentCollapse" style="display: none;">
+                    <ul class="items" data-bind="foreach: Filters().ExtrasParkingAvailability()">
+                        <li class="other_check" data-bind="event: { click: SelectItem }, attr: { title: Name }">
+                            <div>
+                                <input type="checkbox" data-bind="attr: { value: ExtraID, alt: Name, group: 'Availability',checked: Selected() }, css: { checkbox_complete: Selected() }" style="cursor: inherit;" />
+                                <label data-bind="text: Name" style="cursor: inherit;"></label>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="divGroupSize" class="filter_items collapse" data-bind="visible: Filters().ExtrasParkingSize().length &gt; 0 &amp;&amp; Filters().ShowParkingFilters() == true">
+                <div class="TitleContent">
+                    <span class="title_box">Tamaño</span><i class="btn_collapse fa fa-plus-square"></i>
+                </div>
+                <div class="ContentCollapse" style="display: none;">
+                    <ul class="items" data-bind="foreach: Filters().ExtrasParkingSize()">
+                        <li class="other_check" data-bind="event: { click: SelectItem }, attr: { title: Name }">
+                            <div>
+                                <input type="checkbox" data-bind="attr: { value: ExtraID, alt: Name, group: 'Parking', checked: Selected()}, css: { checkbox_complete: Selected()}" />
+                                <label data-bind="text: Name" style="cursor: inherit;"></label>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--Estato-->
+        <div id="divStratum" data-bind="visible: Filters().StratumAdvert().length &gt; 0" class="filter_items collapse">
+            <div class="TitleContent">
+                <span class="title_box">Estrato</span><i class="btn_collapse fa fa-plus-square"></i>
+            </div>
+            <div class="ContentCollapse" style="display: none;">
+                <ul id="facet_stratumAdvert" class="items" facet="StratumAdvert" data-bind="foreach: Filters().StratumAdvert()">
+                    <li class="other_check" data-bind="event: { click: SelectItem }">
+                        <div>
+                            <input type="checkbox" data-bind="attr: { value: Id, alt: Name, checked: Selected() }, css: { checkbox_complete: Selected() }" style="cursor: inherit;" autocomplete="off" />
+                            <label data-bind="text: ShortName, title: Name" style="cursor: inherit;"></label>
+                            <span class="gray" data-bind="text: CountToShow"></span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="divGroupFeaturesRooms" data-bind="visible: Filters().ShowParkingFilters() != true">
+            <!--Ambientes-->
+            <div class="filter_items collapse" data-bind="visible: Filters().ParentCategory() == 2">
+                <div class="TitleContent">
+                    <span class="title_box">Ambientes</span><i class="btn_collapse fa fa-plus-square"></i>
+                </div>
+                <div class="ContentCollapse" style="display: none;">
+                    <div class="btn-group" data-bind="foreach: Filters().Environments()">
+                        <input type="button" data-bind="attr: { value: Name, alt: 'Ambientes: ' + Name }, css: { 'btn-select': !Selected(), 'btn-select-Selected': Selected() }, event: { click: SelectItem }" style="float: left;" />
+                    </div>
+                </div>
+            </div>
+            <!--Habitaciones-->
+            <div class="filter_items collapse" data-bind="visible: Filters().ParentCategory() != 2">
+                <div class="TitleContent">
+                    <span class="title_box">Habitaciones</span><i class="btn_collapse fa fa-plus-square"></i>
+                </div>
+                <div class="ContentCollapse" style="display: none;">
+                    <div class="btn-group" data-bind="foreach: Filters().Rooms()">
+                        <input type="button" data-bind="attr: { value: Name, alt: 'Habitaciones: ' + Name }, css: { 'btn-select': !Selected(), 'btn-select-Selected': Selected() }, event: { click: SelectItem }" style="float: left;" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="divGroupFeatures" data-bind="visible: Filters().ShowParkingFilters() != true">
+            <!--Area-->
+            <div class="filter_items collapse">
+                <div class="TitleContent">
+                    <span class="title_box">Area M2</span><i class="btn_collapse fa fa-plus-square"></i>
+                </div>
+                <div class="ContentCollapse" style="display: none;">
+                    <div class="input-group medium">
+                        <input id="areaFromFilter" type="text" placeholder="Desde" data-bind="textInput: Filters().chosenSurfaceFrom" maxlength="8" autocomplete="off" />
+                        <span><i class="fa close" data-bind="visible: Filters().chosenSurfaceFrom() != undefined &amp;&amp; Filters().chosenSurfaceFrom() != '', event: { click: function () { $root.Filters().chosenSurfaceFrom(''); $root.FindAdverts(); } }"></i></span>
+                    </div>
+                    <div class="separate"></div>
+                    <div class="input-group medium">
+                        <input id="areaToFilter" type="text" placeholder="Hasta" data-bind="textInput: Filters().chosenSurfaceTo, style: { 'border-color': Filters().chosenSurfaceRangeGuard() == true ? '#CCCCCC' : '#CE2323' }" maxlength="8" autocomplete="off" />
+                        <span><i class="fa close" data-bind="visible: Filters().chosenSurfaceTo() != undefined &amp;&amp; Filters().chosenSurfaceTo() != '', event: { click: function () { $root.Filters().chosenSurfaceTo(''); $root.FindAdverts(); } }"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Otros Filtros-->
+        <div class="filter_items others collapse" data-bind="visible: Filters().OtherFiltersAdvert().length &gt; 0">
+            <div class="TitleContent">
+                <span class="title_box">Otros Filtros</span><i class="btn_collapse fa fa-plus-square"></i>
+            </div>
+            <div class="ContentCollapse" style="display: none;">
+                <ul id="facet_OtherFiltersAdvert" class="items" facet="OtherFiltersAdvert" data-bind="foreach: Filters().OtherFiltersAdvert()">
+                    <li class="other_check" data-bind="event: { click: SelectItem }">
+                        <div data-bind="attr: { title: Name }">
+                            <input type="checkbox" data-bind="attr: { value: Id, alt: Name, checked: Selected() }, css: { checkbox_complete: Selected() }" style="cursor: inherit;" />
+                            <label data-bind="text: ShortName, title: Name" style="cursor: inherit;"></label>
+                            <span class="gray" data-bind="text: CountToShow"></span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!--Extras-->
+        <div class="filter_items others collapse" data-bind="visible: Filters().ExtrasAdvert().length &gt; 0">
+            <div class="TitleContent">
+                <span class="title_box">Lo quiero con</span><i class="btn_collapse fa fa-plus-square"></i>
+            </div>
+            <div id="facet_ExtrasAdvert" facet="ExtrasAdvert" class="ContentCollapse" style="display: none;">
+                <div class="main_characteristics" data-bind="visible: Filters().ExtrasAdvert().filter(function (obj) { return obj.ShowInLst() == true &amp;&amp; obj.IconClass() != ''; }).length &gt; 0">
+                    <ul class="items" data-bind="foreach: Filters().ExtrasAdvert().filter(function (obj) { return obj.ShowInLst() == true &amp;&amp; obj.IconClass() != ''; })">
+                        <li class="other_check" data-bind="event: { click: SelectItem } ">
+                            <div data-bind="attr: { title: Name + ' ' + CountToShow(), class: 'extraicon ' + IconClass()}">
+                                <input type="checkbox" data-bind="attr: { value: Id, alt: Name, checked: Selected() }, css: { checkbox_complete: Selected() }" style="cursor: inherit;" autocomplete="off" />
+                                <label data-bind="text: ShortName, title: Name"></label>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div scroll="yes" class="parent_scroll" style="max-height: 240px;">
+                    <ul class="items scroll_content" style="position: relative;" data-bind="foreach: Filters().ExtrasAdvert().filter(function (obj) { return obj.ShowInLst() == true &amp;&amp; obj.IconClass() == ''; })">
+                        <li class="other_check" data-bind="event: { click: SelectItem }" style="float: none !important;">
+                            <div data-bind="attr: { title: Name + ' ' + CountToShow() }">
+                                <input type="checkbox" data-bind="attr: { value: Id, alt: Name, checked: Selected() }, css: { checkbox_complete: Selected() }" style="cursor: inherit;" autocomplete="off" />
+                                <label data-bind="text: ShortName, title: Name" style="cursor: inherit;"></label>
+                                <!--<span class="gray" data-bind="text: CountToShow"></span> -->
+                                <i data-bind="attr: { class: IconClass }, visible: IconClass != ''"></i>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--Fechas-->
+        <div class="filter_items collapse" data-bind="visible: Filters().GridDateAdvert().filter(function (obj) { return obj.ShowInLst() == true; }).length &gt; 0 &amp;&amp; Filters().ShowAllFilters() == true">
+            <div class="TitleContent">
+                <span class="title_box">Fecha de Publicado</span><i class="btn_collapse fa fa-plus-square"></i>
+            </div>
+            <div class="ContentCollapse" style="display: none;">
+                <ul id="facet_GridDateAdvert" facet="GridDateAdvert" class="items" data-bind="foreach: Filters().GridDateAdvert().filter(function (obj) { return obj.ShowInLst() == true; })">
+                    <li class="other_check" data-bind="event: { click: SelectItem }">
+                        <div data-bind="attr: { title: Name }">
+                            <input type="checkbox" data-bind="attr: { value: Id, alt: Name, checked: Selected }, css: { checkbox_complete: Selected }" style="cursor: inherit;" autocomplete="off" />
+                            <label data-bind="text: ShortName, title: Name" style="cursor: inherit;"></label>
+                            <span class="gray" data-bind="text: CountToShow"></span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="divGroupFeaturesBathRooms" data-bind="visible: Filters().ShowParkingFilters() != true">
+            <!--Baños-->
+            <div class="filter_items collapse">
+                <div class="TitleContent">
+                    <span class="title_box">Baños</span><i class="btn_collapse fa fa-plus-square"></i>
+                </div>
+                <div class="ContentCollapse" style="display: none;">
+                    <div class="btn-group" data-bind="foreach: Filters().BathRooms()">
+                        <input type="button" data-bind="attr: { value: Name, alt: 'Baños: ' + Name }, css: { 'btn-select': !Selected(), 'btn-select-Selected': Selected() }, event: { click: SelectItem }" style="float: left;" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Estado del inmueble-->
+        <div class="filter_items collapse" data-bind="visible: Filters().AgeAdvert().length &gt; 0 &amp;&amp; Filters().ShowAllFilters() == true">
+            <div class="TitleContent">
+                <span class="title_box">Antigüedad</span><i class="btn_collapse fa fa-plus-square"></i>
+            </div>
+            <div class="ContentCollapse" style="display: none;">
+                <ul id="facet_AgeAdvert" facet="AgeAdvert" class="items" style="position: relative;" data-bind="foreach: Filters().AgeAdvert()">
+                    <li class="other_check" data-bind="event: { click: $root.Filters().chosenAgeAdvert }">
+                        <div data-bind="attr: { title: Name }">
+                            <input type="checkbox" data-bind="attr: { value: Id, alt: Name, checked: Selected() }, css: { checkbox_complete: Selected() }" style="cursor: inherit;" autocomplete="off" />
+                            <label data-bind="text: ShortName, title: Name" style="cursor: inherit;"></label>
+                            <span class="gray" data-bind="text: CountToShow"></span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!--Por Codigo-->
+        <!--Remover Comentario a DIV si se desea habilitar-->
+        <!--<div class="filter_items">   
+            <div class="input-group">
+                <input id="txtCode" type="text" onclick="this.select()" placeholder="Buscar por código" data-bind="textInput:Filters().AdvertId" style="max-width:132px;" />
+                <div data-bind="click: FindAdvertByCode" style="float:right; margin:0px 0px 0px 3px; cursor:pointer; padding:5px 3px;">
+                    <span><i class="fa fa-search"></i></span>   
+                </div> 
+            </div>
+        </div> -->
+        <!--Grupo Inmobililaria-->
+        <!--Remover Comentario a DIV si se desea habilitar-->
+        <!-- <div class="filter_items" data-bind="visible:Filters().GroupNameAdvert().length > 0">
+            <div class="TitleContent">
+                <span class="title_box">Grupo Inmobiliario</span><i class="btn_collapse fa fa-minus-square"></i>
+            </div>
+            <div class="ContentCollapse">  
+                <div scroll="yes" class="parent_scroll" style="max-height:295px;">            
+                    <ul id="facet_GroupNameAdvert" Facet="GroupNameAdvert" class="items scroll_content" style="position:relative;" data-bind="foreach: Filters().GroupNameAdvert()">
+                        <li>
+                            <div data-bind="event:{click:SelectItem}">
+                                <input type="checkbox" data-bind="attr: {value: Id, alt: Name, checked: Selected }, css: {checkbox_complete: Selected }">
+                                <label data-bind="text:ShortName, title:Name"></label>      
+                                <span class="gray" data-bind="text: CountToShow"></span>   
+                            </div>
+                        </li>
+                    </ul>            
+                </div>
+            </div>
+        </div> -->
+        <!--<div class="filter_items" style="padding: 7px 8px 7px 8px">
+            <input class="btn_mas" type="button" data-bind="event: { click: Filters().ToogleExtras }, value: Filters().ShowAllFiltersLabel" />
+        </div>-->
+        <div id="fl_search" style="text-transform: uppercase; margin: 10px 0px 0px 0px;" onclick="window.vmResults.FindAdverts()">Aplicar Filtros</div>
+    </div>
+    <div class="publicity_Grid">
+        <span class="pub">Publicidad</span>
+        <iframe id="Parrilla160x600" width="160" scrolling="no" height="600" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" src="/banner.aspx?id=9&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR="></iframe>
+    </div>
+</div>
+
+<script type="text/javascript">
+    SetAsIntegerInput("#areaFromFilter,#areaToFilter,#txtCode");
+    setInputAsCurrencyFormat("#priceFromFilter,#priceToFilter");
+    var CurrentFacetsCategory;
+</script>
+
+                    <!--pestañas y avisos resultado-->
+                    <div class="content-grid" style="margin-top: 10px;">
+                        <!--menu-->
+                        <!--nuevo filtro-->
+                        <!--Grilla-->
+                        
+<style>
+    .Grid .content-grid .contentGrid ul {
+        height: 135px !important;
+        border-top: #FFF 1px solid !important;
+        border-right: #F0EDEF 1px solid !important;
+        border-left: #F0EDEF 1px solid !important;
+        border-bottom: #F0EDEF 1px solid !important;
+        height: 135px !important !important;
+        position: relative !important;
+    }
+
+    /* NUEVOS */
+
+
+    /* NUEVOS */
+
+    .heart-favorito, .heart-favoritoc {
+        cursor: pointer;
+        position: absolute;
+        margin: 0pt;
+        padding: 0pt;
+        border: 0pt none;
+        outline: 0pt none;
+        font-size: 100%;
+        vertical-align: baseline;
+        top: 84%;
+        right: 1%;
+        z-index: 99;
+        background: rgba(0,0,0,0);
+        width: 16px;
+        height: 16px;
+        font-family: 'Lato', Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" !important;
+    }
+
+    .Corazo {
+        font-family: 'Lato', Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" !important;
+    }
+
+    .heart-favorito .fa-heart-o {
+        font-size: 16px !important;
+        color: #888888;
+        display: block;
+    }
+
+    .heart-favorito .fa-heart {
+        color: #0066cc;
+        display: none;
+    }
+
+    /* NUEVOS HOVER*/
+    /*.heart-favorito:hover .fa-heart-o {
+        display: none !important;
+    }
+
+    .heart-favorito:hover .fa-heart {
+        display: block !important;
+    }*/
+
+    .heart-favoritoc .fa-heart-o {
+        font-size: 16px !important;
+        color: #888888;
+        display: none;
+    }
+
+    .heart-favoritoc .fa-heart {
+        color: #0066cc;
+        display: block;
+    }
+
+    /* NUEVOS HOVER*/
+    /*.heart-favoritoc:hover .fa-heart-o {
+        display: block !important;
+    }
+
+    .heart-favoritoc:hover .fa-heart {
+        display: none !important;
+    }*/
+</style>
+
+<div id="ctl00_phMasterPage_Grid1_GridAdverts" class="grid">
+    <div class="gridHeader" style="height: 32px; padding: 0px 0px 5px 5px;">
+        <div class="result" style="width: 100%;">
+            <div class="order" style="position: relative; padding: 2px 5px;">
+                <select onchange="Grid_OrderBy(this.value)" class="options" id="lst_Order">
+                    <option value="">Ordenar por</option>
+                    <option value="Price asc">Precio - de menor a mayor</option>
+                    <option value="Price desc">Precio - de mayor a menor</option>
+                    <option value="Area asc">Área - de menor a mayor</option>
+                    <option value="Area desc">Área - de mayor a menor</option>
+                    <option value="Rooms asc">Hab. - de menor a mayor</option>
+                    <option value="Rooms desc">Hab. - de mayor a menor</option>
+                </select>
+                <div id="ctl00_phMasterPage_Grid1_contenedor_linksMapList" style="position:relative;display:none;">
+                    <ul>
+                        <li>
+                            <div id="boton_icon_listado" style="margin: 3px 2px;">
+                                <i class="fa fa-list-ul" style="color: #b5b5b5 !important;"></i><a style="color: #b5b5b5 !important;" href="javascript:void(0);">listado</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div id="ctl00_phMasterPage_Grid1_boton_icon_map" style="margin: 3px 2px;" onclick="javascript: goToMap(); trackingClick('results_resultados_mapa', 'SpecificTracking');">
+                                <i class="fa fa-map-marker"></i><a href="javascript:void(0);">Mapa</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="contentGrid clear">
+        <meta itemprop="mainContentOfPage" content="true" />
+        <div id="divAdverts">
+            
+                    
+                    
+                        <ul id="rowIndex_0" class="advert  Product_Code_ AD" itemscope="" itemtype="http://schema.org/Product">
+                            <li class="media" onclick="javascript:window.location='/lote-en-venta/otros-municipios/mirador_sanjose_oriente_corregimiento_paz_cesar-det-4067794.aspx'">
+                                <div>
+                                    <span class="text-photo">
+                                        2
+                                        <br />
+                                        <span class="text-photo-mini">Fotos</span></span>
+                                    <span class="text-etiqueta"><span class="etiqueta"></span></span>
+                                    <img class="lazy" src="/app_theme/images/none.gif" data-original="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/23/4067794/lote-venta-vichada-otros-municipios-166590475_m.jpg" alt="Lote en Venta - Otros municipios el mirador de sanjose de oriente corregimiento la paz cesar" onclick="javascript:location.href='/lote-en-venta/otros-municipios/mirador_sanjose_oriente_corregimiento_paz_cesar-det-4067794.aspx'" />
+                                    <meta itemprop="image" content="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/23/4067794/lote-venta-vichada-otros-municipios-166590475_m.jpg" />
+                                </div><div class="usedMark">Usado</div>
+                            </li>
+                            <li class="title-grid" onclick="javascript:window.location='/lote-en-venta/otros-municipios/mirador_sanjose_oriente_corregimiento_paz_cesar-det-4067794.aspx'">
+                                <div class="ico-inmo">
+                                    
+                                    <div class="textinmov"></div>
+                                </div>
+                                <div class="span-title" itemprop="name">
+                                    <a href="/lote-en-venta/otros-municipios/mirador_sanjose_oriente_corregimiento_paz_cesar-det-4067794.aspx" title="Lote en Venta - Otros municipios el mirador de sanjose de oriente corregimiento la paz cesar">
+                                        <div>
+                                            <h2 class="h2-grid">
+                                                Lote en Otros municipios</h2>
+                                        </div>
+                                        <br />
+                                        <div>
+                                            El Mirador De Sanjose De Oriente Corregimiento La Paz Cesar
+                                        </div>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="surface li_advert" onclick="javascript:window.location='/lote-en-venta/otros-municipios/mirador_sanjose_oriente_corregimiento_paz_cesar-det-4067794.aspx'">
+                                6,00 m2
+                                <br />
+                                <div style="margin-top: 12px">---</div>
+                            </li>
+                            <li class="price li_advert" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" onclick="javascript:window.location='/lote-en-venta/otros-municipios/mirador_sanjose_oriente_corregimiento_paz_cesar-det-4067794.aspx'">
+
+                                <div>
+                                    <meta itemprop="price" content="4500000.0" />
+                                    $ 4.500.000
+                                </div>
+                                <meta itemprop="priceCurrency" content="COP" />
+                                <div id="compare_div_4067794" class="compare_div" value="4067794">
+                                    <br />
+                                    <div class="text compare-text" onclick="CompareAdvert(4067794,'#compare_div_4067794','','.compare-text','',event)" title="Clic para agregar este inmueble a la lista de comparación">
+                                        Comparar
+                                    </div>
+                                </div>
+
+                                
+                                <div class="icoOpr"></div>
+                                <div class="icoADE"></div>
+                                <div class="icoOvcESPParrilla1"></div>
+                            </li>
+                            <div class="divHeart heart-favorito" advertid="4067794"><i class="fa fa-heart-o" aria-hidden="true"></i><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        </ul>
+                    
+                    
+                    
+                    
+                
+                    
+                    
+                        <ul id="rowIndex_1" class="advert  Product_Code_ AD" itemscope="" itemtype="http://schema.org/Product">
+                            <li class="media" onclick="javascript:window.location='/casa-en-venta/puerto-carreno/camilo_cortes_puerto_carreno_vichada-det-4042149.aspx'">
+                                <div>
+                                    <span class="text-photo">
+                                        9
+                                        <br />
+                                        <span class="text-photo-mini">Fotos</span></span>
+                                    <span class="text-etiqueta"><span class="etiqueta"></span></span>
+                                    <img class="lazy" src="/app_theme/images/none.gif" data-original="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/13/4042149/casa-venta-vichada-puerto-carreno-165073012_m.jpg" alt="Casa en Venta - Puerto Carreño camilo cortés puerto Carreño Vichada" onclick="javascript:location.href='/casa-en-venta/puerto-carreno/camilo_cortes_puerto_carreno_vichada-det-4042149.aspx'" />
+                                    <meta itemprop="image" content="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/13/4042149/casa-venta-vichada-puerto-carreno-165073012_m.jpg" />
+                                </div><div class="usedMark">Usado</div>
+                            </li>
+                            <li class="title-grid" onclick="javascript:window.location='/casa-en-venta/puerto-carreno/camilo_cortes_puerto_carreno_vichada-det-4042149.aspx'">
+                                <div class="ico-inmo">
+                                    
+                                    <div class="textinmov"></div>
+                                </div>
+                                <div class="span-title" itemprop="name">
+                                    <a href="/casa-en-venta/puerto-carreno/camilo_cortes_puerto_carreno_vichada-det-4042149.aspx" title="Casa en Venta - Puerto Carreño camilo cortés puerto Carreño Vichada">
+                                        <div>
+                                            <h2 class="h2-grid">
+                                                Casa en Puerto Carreño</h2>
+                                        </div>
+                                        <br />
+                                        <div>
+                                            
+                                        </div>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="surface li_advert" onclick="javascript:window.location='/casa-en-venta/puerto-carreno/camilo_cortes_puerto_carreno_vichada-det-4042149.aspx'">
+                                1.021,00 m2
+                                <br />
+                                <div style="margin-top: 12px">3 hab.</div>
+                            </li>
+                            <li class="price li_advert" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" onclick="javascript:window.location='/casa-en-venta/puerto-carreno/camilo_cortes_puerto_carreno_vichada-det-4042149.aspx'">
+
+                                <div>
+                                    <meta itemprop="price" content="350000000" />
+                                    $ 350.000.000
+                                </div>
+                                <meta itemprop="priceCurrency" content="COP" />
+                                <div id="compare_div_4042149" class="compare_div" value="4042149">
+                                    <br />
+                                    <div class="text compare-text" onclick="CompareAdvert(4042149,'#compare_div_4042149','','.compare-text','',event)" title="Clic para agregar este inmueble a la lista de comparación">
+                                        Comparar
+                                    </div>
+                                </div>
+
+                                
+                                <div class="icoOpr"></div>
+                                <div class="icoADE"></div>
+                                <div class="icoOvcESPParrilla1"></div>
+                            </li>
+                            <div class="divHeart heart-favorito" advertid="4042149"><i class="fa fa-heart-o" aria-hidden="true"></i><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        </ul>
+                    
+                    
+                    
+                    
+                
+                    
+                    
+                        <ul id="rowIndex_2" class="advert  Product_Code_ AD" itemscope="" itemtype="http://schema.org/Product">
+                            <li class="media" onclick="javascript:window.location='/casa-en-venta/puerto-carreno/gaitan-det-3999976.aspx'">
+                                <div>
+                                    <span class="text-photo">
+                                        3
+                                        <br />
+                                        <span class="text-photo-mini">Fotos</span></span>
+                                    <span class="text-etiqueta"><span class="etiqueta"></span></span>
+                                    <img class="lazy" src="/app_theme/images/none.gif" data-original="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/02/3999976/casa-venta-vichada-puerto-carreno-162066723_m.jpg" alt="Casa en Venta - Puerto Carreño Gaitan" onclick="javascript:location.href='/casa-en-venta/puerto-carreno/gaitan-det-3999976.aspx'" />
+                                    <meta itemprop="image" content="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/10/02/3999976/casa-venta-vichada-puerto-carreno-162066723_m.jpg" />
+                                </div><div class="usedMark">Usado</div>
+                            </li>
+                            <li class="title-grid" onclick="javascript:window.location='/casa-en-venta/puerto-carreno/gaitan-det-3999976.aspx'">
+                                <div class="ico-inmo">
+                                    
+                                    <div class="textinmov"></div>
+                                </div>
+                                <div class="span-title" itemprop="name">
+                                    <a href="/casa-en-venta/puerto-carreno/gaitan-det-3999976.aspx" title="Casa en Venta - Puerto Carreño Gaitan">
+                                        <div>
+                                            <h2 class="h2-grid">
+                                                Casa en Puerto Carreño</h2>
+                                        </div>
+                                        <br />
+                                        <div>
+                                            Gaitan
+                                        </div>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="surface li_advert" onclick="javascript:window.location='/casa-en-venta/puerto-carreno/gaitan-det-3999976.aspx'">
+                                692,00 m2
+                                <br />
+                                <div style="margin-top: 12px">5 hab.</div>
+                            </li>
+                            <li class="price li_advert" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" onclick="javascript:window.location='/casa-en-venta/puerto-carreno/gaitan-det-3999976.aspx'">
+
+                                <div>
+                                    <meta itemprop="price" content="140000000" />
+                                    $ 140.000.000
+                                </div>
+                                <meta itemprop="priceCurrency" content="COP" />
+                                <div id="compare_div_3999976" class="compare_div" value="3999976">
+                                    <br />
+                                    <div class="text compare-text" onclick="CompareAdvert(3999976,'#compare_div_3999976','','.compare-text','',event)" title="Clic para agregar este inmueble a la lista de comparación">
+                                        Comparar
+                                    </div>
+                                </div>
+
+                                
+                                <div class="icoOpr"></div>
+                                <div class="icoADE"></div>
+                                <div class="icoOvcESPParrilla1"></div>
+                            </li>
+                            <div class="divHeart heart-favorito" advertid="3999976"><i class="fa fa-heart-o" aria-hidden="true"></i><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        </ul>
+                    
+                    
+                    
+                    
+                
+                    
+                    
+                        <ul id="rowIndex_3" class="advert  Product_Code_ AD" itemscope="" itemtype="http://schema.org/Product">
+                            <li class="media" onclick="javascript:window.location='/lote-en-venta/otros-municipios/cumaribo-det-3969263.aspx'">
+                                <div>
+                                    <span class="text-photo">
+                                        1
+                                        <br />
+                                        <span class="text-photo-mini">Fotos</span></span>
+                                    <span class="text-etiqueta"><span class="etiqueta"></span></span>
+                                    <img class="lazy" src="/app_theme/images/none.gif" data-original="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/20/3969263/lote-venta-vichada-otros-municipios-160145234_m.jpg" alt="Lote en Venta - Otros municipios CUMARIBO" onclick="javascript:location.href='/lote-en-venta/otros-municipios/cumaribo-det-3969263.aspx'" />
+                                    <meta itemprop="image" content="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/20/3969263/lote-venta-vichada-otros-municipios-160145234_m.jpg" />
+                                </div><div class="usedMark">Usado</div>
+                            </li>
+                            <li class="title-grid" onclick="javascript:window.location='/lote-en-venta/otros-municipios/cumaribo-det-3969263.aspx'">
+                                <div class="ico-inmo">
+                                    
+                                    <div class="textinmov"></div>
+                                </div>
+                                <div class="span-title" itemprop="name">
+                                    <a href="/lote-en-venta/otros-municipios/cumaribo-det-3969263.aspx" title="Lote en Venta - Otros municipios CUMARIBO">
+                                        <div>
+                                            <h2 class="h2-grid">
+                                                Lote en Otros municipios</h2>
+                                        </div>
+                                        <br />
+                                        <div>
+                                            Cumaribo
+                                        </div>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="surface li_advert" onclick="javascript:window.location='/lote-en-venta/otros-municipios/cumaribo-det-3969263.aspx'">
+                                13,00 m2
+                                <br />
+                                <div style="margin-top: 12px">---</div>
+                            </li>
+                            <li class="price li_advert" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" onclick="javascript:window.location='/lote-en-venta/otros-municipios/cumaribo-det-3969263.aspx'">
+
+                                <div>
+                                    <meta itemprop="price" content="6000000.0" />
+                                    $ 6.000.000
+                                </div>
+                                <meta itemprop="priceCurrency" content="COP" />
+                                <div id="compare_div_3969263" class="compare_div" value="3969263">
+                                    <br />
+                                    <div class="text compare-text" onclick="CompareAdvert(3969263,'#compare_div_3969263','','.compare-text','',event)" title="Clic para agregar este inmueble a la lista de comparación">
+                                        Comparar
+                                    </div>
+                                </div>
+
+                                
+                                <div class="icoOpr"></div>
+                                <div class="icoADE"></div>
+                                <div class="icoOvcESPParrilla1"></div>
+                            </li>
+                            <div class="divHeart heart-favorito" advertid="3969263"><i class="fa fa-heart-o" aria-hidden="true"></i><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        </ul>
+                    
+                    
+                    
+                    
+                        <ul style="height: auto;">
+                            <li style="width: 645px; margin: auto; border-bottom: 1px solid #E3DEE2" itemscope="" itemtype="http://schema.org/WPAdBlock">
+                                <label style="margin-left: 2px" class="pub">
+                                    PUBLICIDAD</label>
+                                <div class="publicidad-grid">
+                                    <iframe id="Banner728x90_12" width="640" scrolling="no" height="90" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" src="/banner.aspx?id=12&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR=&amp;frmId=Banner728x90_12"></iframe>
+                                </div>
+                            </li>
+                        </ul>
+                    
+                
+                    
+                    
+                        <ul id="rowIndex_4" class="advert  Product_Code_ AD" itemscope="" itemtype="http://schema.org/Product">
+                            <li class="media" onclick="javascript:window.location='/lote-en-venta/otros-municipios/villa_adriana-det-3923539.aspx'">
+                                <div>
+                                    <span class="text-photo">
+                                        4
+                                        <br />
+                                        <span class="text-photo-mini">Fotos</span></span>
+                                    <span class="text-etiqueta"><span class="etiqueta"></span></span>
+                                    <img class="lazy" src="/app_theme/images/none.gif" data-original="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/05/3923539/lote-venta-vichada-otros-municipios-157392336_m.jpg" alt="Lote en Venta - Otros municipios villa Adriana " onclick="javascript:location.href='/lote-en-venta/otros-municipios/villa_adriana-det-3923539.aspx'" />
+                                    <meta itemprop="image" content="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/09/05/3923539/lote-venta-vichada-otros-municipios-157392336_m.jpg" />
+                                </div><div class="usedMark">Usado</div>
+                            </li>
+                            <li class="title-grid" onclick="javascript:window.location='/lote-en-venta/otros-municipios/villa_adriana-det-3923539.aspx'">
+                                <div class="ico-inmo">
+                                    
+                                    <div class="textinmov"></div>
+                                </div>
+                                <div class="span-title" itemprop="name">
+                                    <a href="/lote-en-venta/otros-municipios/villa_adriana-det-3923539.aspx" title="Lote en Venta - Otros municipios villa Adriana ">
+                                        <div>
+                                            <h2 class="h2-grid">
+                                                Lote en Otros municipios</h2>
+                                        </div>
+                                        <br />
+                                        <div>
+                                            Villa Adriana 
+                                        </div>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="surface li_advert" onclick="javascript:window.location='/lote-en-venta/otros-municipios/villa_adriana-det-3923539.aspx'">
+                                20,00 m2
+                                <br />
+                                <div style="margin-top: 12px">---</div>
+                            </li>
+                            <li class="price li_advert" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" onclick="javascript:window.location='/lote-en-venta/otros-municipios/villa_adriana-det-3923539.aspx'">
+
+                                <div>
+                                    <meta itemprop="price" content="7000000.0" />
+                                    $ 7.000.000
+                                </div>
+                                <meta itemprop="priceCurrency" content="COP" />
+                                <div id="compare_div_3923539" class="compare_div" value="3923539">
+                                    <br />
+                                    <div class="text compare-text" onclick="CompareAdvert(3923539,'#compare_div_3923539','','.compare-text','',event)" title="Clic para agregar este inmueble a la lista de comparación">
+                                        Comparar
+                                    </div>
+                                </div>
+
+                                
+                                <div class="icoOpr"></div>
+                                <div class="icoADE"></div>
+                                <div class="icoOvcESPParrilla1"></div>
+                            </li>
+                            <div class="divHeart heart-favorito" advertid="3923539"><i class="fa fa-heart-o" aria-hidden="true"></i><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        </ul>
+                    
+                    
+                    
+                    
+                
+                    
+                    
+                        <ul id="rowIndex_5" class="advert  Product_Code_ AD_OV" itemscope="" itemtype="http://schema.org/Product">
+                            <li class="media" onclick="javascript:window.location='/lote-en-venta/puerto-carreno/mateo-det-3379462.aspx'">
+                                <div>
+                                    <span class="text-photo">
+                                        6
+                                        <br />
+                                        <span class="text-photo-mini">Fotos</span></span>
+                                    <span class="text-etiqueta"><span class="etiqueta"></span></span>
+                                    <img class="lazy" src="/app_theme/images/none.gif" data-original="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/02/07/3379462/lote-venta-vichada-puerto-carreno-122694204_m.jpg" alt="Lote en Venta - Puerto Carreño Mateo" onclick="javascript:location.href='/lote-en-venta/puerto-carreno/mateo-det-3379462.aspx'" />
+                                    <meta itemprop="image" content="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2018/02/07/3379462/lote-venta-vichada-puerto-carreno-122694204_m.jpg" />
+                                </div><div class="usedMark">Usado</div>
+                            </li>
+                            <li class="title-grid" onclick="javascript:window.location='/lote-en-venta/puerto-carreno/mateo-det-3379462.aspx'">
+                                <div class="ico-inmo">
+                                    <div class="icoov"></div>
+                                    <div class="textinmov"></div>
+                                </div>
+                                <div class="span-title" itemprop="name">
+                                    <a href="/lote-en-venta/puerto-carreno/mateo-det-3379462.aspx" title="Lote en Venta - Puerto Carreño Mateo">
+                                        <div>
+                                            <h2 class="h2-grid">
+                                                Lote en Puerto Carreño</h2>
+                                        </div>
+                                        <br />
+                                        <div>
+                                            Mateo
+                                        </div>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="surface li_advert" onclick="javascript:window.location='/lote-en-venta/puerto-carreno/mateo-det-3379462.aspx'">
+                                860,00 m2
+                                <br />
+                                <div style="margin-top: 12px">---</div>
+                            </li>
+                            <li class="price li_advert" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" onclick="javascript:window.location='/lote-en-venta/puerto-carreno/mateo-det-3379462.aspx'">
+
+                                <div>
+                                    <meta itemprop="price" content="35000000" />
+                                    $ 35.000.000
+                                </div>
+                                <meta itemprop="priceCurrency" content="COP" />
+                                <div id="compare_div_3379462" class="compare_div" value="3379462">
+                                    <br />
+                                    <div class="text compare-text" onclick="CompareAdvert(3379462,'#compare_div_3379462','','.compare-text','',event)" title="Clic para agregar este inmueble a la lista de comparación">
+                                        Comparar
+                                    </div>
+                                </div>
+
+                                
+                                <div class="icoOpr"></div>
+                                <div class="icoADE"></div>
+                                <div class="icoOvcESPParrilla1"></div>
+                            </li>
+                            <div class="divHeart heart-favorito" advertid="3379462"><i class="fa fa-heart-o" aria-hidden="true"></i><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        </ul>
+                    
+                    
+                    
+                    
+                
+                    
+                    
+                        <ul id="rowIndex_6" class="advert  Product_Code_ AD_OV" itemscope="" itemtype="http://schema.org/Product">
+                            <li class="media" onclick="javascript:window.location='/lote-en-venta/puerto-carreno/puerto_carreno-det-2853706.aspx'">
+                                <div>
+                                    <span class="text-photo">
+                                        4
+                                        <br />
+                                        <span class="text-photo-mini">Fotos</span></span>
+                                    <span class="text-etiqueta"><span class="etiqueta"></span></span>
+                                    <img class="lazy" src="/app_theme/images/none.gif" data-original="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/06/14/2853706/lote-venta-vichada-puerto-carreno-92414538_m.jpg" alt="Lote en Venta - Puerto Carreño Puerto carreño" onclick="javascript:location.href='/lote-en-venta/puerto-carreno/puerto_carreno-det-2853706.aspx'" />
+                                    <meta itemprop="image" content="https://s3.amazonaws.com/imagenes.fincaraiz.com.co/FC_COL/2017/06/14/2853706/lote-venta-vichada-puerto-carreno-92414538_m.jpg" />
+                                </div><div class="usedMark">Usado</div>
+                            </li>
+                            <li class="title-grid" onclick="javascript:window.location='/lote-en-venta/puerto-carreno/puerto_carreno-det-2853706.aspx'">
+                                <div class="ico-inmo">
+                                    <div class="icoov"></div>
+                                    <div class="textinmov"></div>
+                                </div>
+                                <div class="span-title" itemprop="name">
+                                    <a href="/lote-en-venta/puerto-carreno/puerto_carreno-det-2853706.aspx" title="Lote en Venta - Puerto Carreño Puerto carreño">
+                                        <div>
+                                            <h2 class="h2-grid">
+                                                Lote en Puerto Carreño</h2>
+                                        </div>
+                                        <br />
+                                        <div>
+                                            Puerto Carreño
+                                        </div>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="surface li_advert" onclick="javascript:window.location='/lote-en-venta/puerto-carreno/puerto_carreno-det-2853706.aspx'">
+                                804,11 m2
+                                <br />
+                                <div style="margin-top: 12px">---</div>
+                            </li>
+                            <li class="price li_advert" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" onclick="javascript:window.location='/lote-en-venta/puerto-carreno/puerto_carreno-det-2853706.aspx'">
+
+                                <div>
+                                    <meta itemprop="price" content="25000000" />
+                                    $ 25.000.000
+                                </div>
+                                <meta itemprop="priceCurrency" content="COP" />
+                                <div id="compare_div_2853706" class="compare_div" value="2853706">
+                                    <br />
+                                    <div class="text compare-text" onclick="CompareAdvert(2853706,'#compare_div_2853706','','.compare-text','',event)" title="Clic para agregar este inmueble a la lista de comparación">
+                                        Comparar
+                                    </div>
+                                </div>
+
+                                
+                                <div class="icoOpr"></div>
+                                <div class="icoADE"></div>
+                                <div class="icoOvcESPParrilla1"></div>
+                            </li>
+                            <div class="divHeart heart-favorito" advertid="2853706"><i class="fa fa-heart-o" aria-hidden="true"></i><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        </ul>
+                    
+                    
+                    
+                    
+                
+        </div>
+        <div class="pagination">
+            <div id="divPaginator">
+                
+                        
+                        <a title="Ir a la pagina 1" onclick="return Grid_PageChanged('1')" href="/apartamento-casa-apartaestudio-habitacion-parqueadero-lote/venta/vichada/" class="link-pag selected">
+                            1</a>
+                    
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $("img.lazy").lazyload({ effect: "fadeIn", threshold: 200 });
+    console.timeEnd('Test');
+
+    var lstAdverts = [{data:[{AdvertId:"4067794",Title:"Lote en Venta - Otros municipios el mirador de sanjose de oriente corregimiento la paz cesar",Address:"sanjose de l oriente corregimiento la paz",PhotoUrl:"2018/10/23/4067794/lote-venta-vichada-otros-municipios-166590475_m.jpg",ClientName:"arelvis nuñez ",ClientId:"946581",OriginId:"44",PromotionLogoURL:""},{AdvertId:"4042149",Title:"Casa en Venta - Puerto Carreño camilo cortés puerto Carreño Vichada",Address:"av19 #20-120",PhotoUrl:"2018/10/13/4042149/casa-venta-vichada-puerto-carreno-165073012_m.jpg",ClientName:"martha lucia Ramírez  nuñez",ClientId:"842161",OriginId:"44",PromotionLogoURL:""},{AdvertId:"3999976",Title:"Casa en Venta - Puerto Carreño Gaitan",Address:"calle 19 #1-200 ",PhotoUrl:"2018/10/02/3999976/casa-venta-vichada-puerto-carreno-162066723_m.jpg",ClientName:"Hugo Moncada Posada",ClientId:"484424",OriginId:"44",PromotionLogoURL:""},{AdvertId:"3969263",Title:"Lote en Venta - Otros municipios CUMARIBO",Address:"EL VIENTO",PhotoUrl:"2018/09/20/3969263/lote-venta-vichada-otros-municipios-160145234_m.jpg",ClientName:"SOLANYI  DIAZ MORENO",ClientId:"469526",OriginId:"44",PromotionLogoURL:""},{AdvertId:"3923539",Title:"Lote en Venta - Otros municipios villa Adriana ",Address:"La primavera Vichada ",PhotoUrl:"2018/09/05/3923539/lote-venta-vichada-otros-municipios-157392336_m.jpg",ClientName:"Ligia Marima Andrade Parra",ClientId:"776104",OriginId:"44",PromotionLogoURL:""},{AdvertId:"3379462",Title:"Lote en Venta - Puerto Carreño Mateo",Address:"Puerto carreño",PhotoUrl:"2018/02/07/3379462/lote-venta-vichada-puerto-carreno-122694204_m.jpg",ClientName:"Emporio Grupo Inmobiliario",ClientId:"193028",OriginId:"23",PromotionLogoURL:""},{AdvertId:"2853706",Title:"Lote en Venta - Puerto Carreño Puerto carreño",Address:"Puerto Carreño",PhotoUrl:"2017/06/14/2853706/lote-venta-vichada-puerto-carreno-92414538_m.jpg",ClientName:"Emporio Grupo Inmobiliario",ClientId:"193028",OriginId:"23",PromotionLogoURL:""}],"info":""}][0];
+    var lstFacets = "";
+
+    function Grid_OrderBy(orderby) {
+        sfFind.Order = orderby;
+        sfFind.PageNumber = 1;
+        return Find(sfFind, null, "ORDER");
+    }
+</script>
+
+                        <!--Mapa-->
+                        
+                    </div>
+                    <!--banner-->
+                    <div class="advertising" itemscope="" itemtype="https://schema.org/WPAdBlock">
+                        <div class="pub">Publicidad</div>
+                        <div class="divBanner">
+                            <iframe id="Parrilla120x240_1" width="120" scrolling="no" height="240" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" src="/banner.aspx?id=21&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR="></iframe>
+                        </div>
+                        <div class="divBanner">
+                            <iframe id="Parrilla120x240_2" width="120" scrolling="no" height="240" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" src="/banner.aspx?id=22&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR="></iframe>
+                        </div>
+                        <div class="divBanner">
+                            <iframe id="Parrilla120x240_3" width="120" scrolling="no" height="240" frameborder="0" marginwidth="0" marginheight="0" allowtransparency="true" src="/banner.aspx?id=23&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR="></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var cEmail = "";
+            var cName = "";
+            var cPhone = "";
+            var cCity  = "";            
+            var cCategoryGroup =  "1";
+            var contactToken = '34F10459B5230399E9C5FE4B0B53FA137D2FDB92F078FF598ACB18A53B223FBD271B53542C32035B';
+            var contextdomain  = 'www.fincaraiz.com.co';
+            var clientIdR = '0';
+
+            $( document ).ready(function() {
+                cCategoryGroup = "1";
+            });
+
+            //variable global
+            var sfFind = Normalize({"AdvertCategory" : "0", "LocationType" : "0", "AdvertId" : "0", "AdvertWASId" : "0", "AdvertExternalId" : "", "ClientId" : "0", "TransactionId" : "1", "sTransactionsId" : "", "TransactionType" : "All", "Category1Id" : "8", "Category1IdList" : "8,9,22,10,24,2", "Category2Id" : "0", "Category3Id" : "0", "Location1Id" : "84", "Location1IdList" : "84", "Location2Id" : "0", "Location2IdList" : "", "Location3Id" : "0", "Location3IdList" : "", "Location4Id" : "0", "Location4IdList" : "", "PriceFrom" : "0", "PriceTo" : "0", "NotInLocation4Id" : "", "SalaryMax" : "0", "SurfaceFrom" : "0", "SurfaceTo" : "0", "Area" : "0", "Rooms" : "0", "RoomsList" : "", "Baths" : "0", "BathsList" : "", "AgeId" : "0", "AgeIdList" : "", "NotInLocation3Id" : "", "ExtrasId" : "0", "ExtrasIdList" : "", "ContractType" : "All", "TopAdvert" : "0", "ProductCode" : "", "NumPhotos" : "0", "ShowPhotos" : "True", "ProductId" : "0", "Word" : "", "Order" : "GridDate desc", "Status" : "0", "OriginId" : "0", "GridDate" : "1/1/0001 12:00:00 AM", "ModifyDateTo" : "1/1/1900 12:00:00 AM", "ToBePostModerate" : "False", "FTISearch" : "False", "NotInAdvertsId" : "", "ParentLevel" : "-1", "GroupType" : "-1", "ClientParentLevel" : "-1", "NotInCategory1Id" : "0", "NotInCategory2Id" : "0", "AdvertIP" : "", "GroupName" : "", "Neighborhood" : "", "PriceTypeId" : "0", "StratumId" : "", "StratumIdList" : "", "TotalEnvironment" : "0", "TotalEnvironmentList" : "", "IsFree" : "-1", "PageSize" : "30", "PageNumber" : "1"});
+            var viewMap = false;
+            sfFind.Category1Id = sfFind.Category1IdList;
+            sfFind.Rooms = sfFind.RoomsList;
+            sfFind.Baths = sfFind.BathsList;
+            sfFind.ExtrasId = sfFind.ExtrasIdList;
+            var idsPageSemanticText = ['/lote-en-venta/otros-municipios/mirador_sanjose_oriente_corregimiento_paz_cesar-det-4067794.aspx','/casa-en-venta/puerto-carreno/camilo_cortes_puerto_carreno_vichada-det-4042149.aspx','/casa-en-venta/puerto-carreno/gaitan-det-3999976.aspx','/lote-en-venta/otros-municipios/cumaribo-det-3969263.aspx','/lote-en-venta/otros-municipios/villa_adriana-det-3923539.aspx','/lote-en-venta/puerto-carreno/mateo-det-3379462.aspx','/lote-en-venta/puerto-carreno/puerto_carreno-det-2853706.aspx'];
+            var countAdverts = 7;
+            var totalPages = 1;
+
+            InitializeViewModelFilters();
+        
+            function ShowArrows()
+            {
+                if(trim($("#div_LastPage").html()) != ""){
+                    $("#div_LastPage").show();
+                }
+                else{
+                    $("#div_LastPage").hide();
+                }                    
+                if(trim($("#div_NextPage").html()) != ""){
+                    $("#div_NextPage").show();            
+                }
+                else{
+                    $("#div_NextPage").hide();
+                }
+                if(countAdverts == 0){
+                    $("#paginator_top").hide();
+                }
+            }
+
+            function PaintSuperiorPaginator(lstData){
+                totalPages = Math.ceil(parseInt(lstData.info) / sfFind.PageSize);
+                sfFind.PageNumber = parseInt(sfFind.PageNumber);
+                if(totalPages &gt; 0)
+                {
+                    $("#paginator_top").show();
+                    $("#span_counter").html(sfFind.PageNumber + " de " + totalPages);
+                    var firtsPage = GetFirtsPagePaginator();
+                    var lastPage = GetLastPagePaginator();
+                    var htmlNextPage = '';
+                    var htmlLastPage = '';
+                    if (sfFind.PageNumber &gt; firtsPage)
+                    {
+                        htmlLastPage = '&lt;a href="{Semantic}"  class="ico20 prev-page" onclick="return Grid_PageChanged(\'{PageNumber}\')" &gt;&lt;/a&gt;\
+                                        &lt;a href="{Semantic}" title="Ir a la pagina Anterior" onclick="return Grid_PageChanged(\'{PageNumber}\')" &gt;Anterior&lt;/a&gt;';
+                        var pageObject1 = GetPageObject("Anterior", sfFind.PageNumber - 1);
+                        htmlLastPage = toHtml(pageObject1,htmlLastPage);
+                    }
+                    if (sfFind.PageNumber &lt; lastPage)
+                    {
+                        htmlNextPage = '&lt;a href="{Semantic}" title="Ir a la pagina Siguiente" onclick="return Grid_PageChanged(\'{PageNumber}\')" &gt;Siguiente&lt;/a&gt; \
+                                        &lt;a href="{Semantic}" class="ico20 next-page" onclick="return Grid_PageChanged(\'{PageNumber}\')" &gt;&lt;/a&gt;';                
+                        var pageObject2 = GetPageObject("Siguiente", sfFind.PageNumber + 1);                
+                        htmlNextPage = toHtml(pageObject2,htmlNextPage);
+                    }
+                    $("#div_LastPage").html(htmlLastPage);
+                    $("#div_NextPage").html(htmlNextPage);
+                    ShowArrows();
+                }
+                else{
+                    $("#paginator_top").hide();
+                }
+            }
+            $(document).ready(function() {ShowArrows(); });
+
+        </script>
+    </form>
+</div>
+
+            <!--MASTER FOOTER-->
+            <div id="divFooter">
+             
+
+<div id="Div_Footer" class="footer">
+    <div id="ctl00_xFooter_Div_Footer_Principal" class="footer">
+        <div class="contenedor_products">
+            <img src="/App_Theme/images/logo_fincaraiz_footer.png" width="361" height="58" />
+        </div>
+        <div class="panel_principal">
+            <div id="ctl00_xFooter_LinksGroupFooter1_Div_LinksEstaticos"> 
+ <ul class="contenido_footer_principal">
+  <li class="titulos_footer">
+      Oferta de Finca Raíz en Colombia 
+  </li>
+    
+            <li class="contenedor_links_rapida"><a href="/proyectos-vivienda-nueva/bogota" class="texto_rapida" title="Proyectos de Vivienda en Bogotá">Proyectos Vivienda Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartamentos/arriendo/bogota/" class="texto_rapida" title="Apartamentos en Arriendo en Bogotá">Apartamentos Arriendo Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartamentos/venta/bogota/" class="texto_rapida" title="Apartamentos en Venta en Bogotá">Apartamentos Venta Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartaestudios/arriendo/bogota/" class="texto_rapida" title="Apartaestudios en Arriendo en Bogotá">Apartaestudios Arriendo Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/arriendos/bogota/" class="texto_rapida" title="Arriendos en Bogotá">Arriendos Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/casas/arriendo/bogota/" class="texto_rapida" title="Casas en Arriendo en Bogotá">Casas Arriendo Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/casas/venta/bogota/" class="texto_rapida" title="Casas en Venta en Bogotá">Casas Venta Bogotá</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartamentos/alquiler/cali/" class="texto_rapida" title="Apartamentos en Alquiler en Cali">Apartamentos Alquiler Cali</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/apartamentos/venta/cali" class="texto_rapida" title="Apartamentos en Venta en Cali">Apartamentos Venta Cali</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/casas/alquiler/cali/" class="texto_rapida" title="Casas en Alquiler en Cali">Casas Alquiler Cali</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/casas/venta/cali/" class="texto_rapida" title="Casas en Venta en Cali">Casas Venta Cali</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/arrendamientos/medellin/" class="texto_rapida" title="Inmuebles en Arrendamiento en Medellín">Arrendamientos Medellín</a></li>
+        
+            <li class="contenedor_links_rapida"><a href="/arrendamientos/envigado/" class="texto_rapida" title="Inmuebles en Arrendamiento en Envigado">Arrendamientos Envigado</a></li>
+        
+ </ul>
+</div>
+
+
+
+
+  
+
+        </div>
+        <div class="panel_secundario">
+            
+
+
+
+
+
+
+
+<ul class="contenido_footer_principal">
+ <li class="titulos_footer">
+  Finca Raíz en Vichada
+ </li>    
+ <li class="contenedor_links_rapida">
+  Fincaraiz.com.co, portal Web Especializado en finca raíz le ofrece en Vichada inmuebles en venta y arriendo. Encuentre anuncios clasificados de Constructoras, Inmobiliarias o Particulares: Vivienda usada, inmuebles comerciales, proyectos nuevos de vivienda y otras propiedades. 
+ </li>
+</ul>
+        </div>
+        <div class="panel_secundario">
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Site Map Finca Raíz</li>
+            </ul>
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Oferta de Anuncios: </li>
+                <li class="contenedor_links"><a class="texto_links" title="Inmuebles en Venta en Colombia" href="/finca-raiz/">Venta Nuevo y Usados<br /></a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Proyectos de Vivienda Nueva en Colombia" href="/proyectos-vivienda-nueva/">Proyectos Nuevos</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Inmuebles en Arriendo en Colombia" href="/arriendos/">Ofertas en Arriendo</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Alquiler Vacacional en Colombia" href="/alquiler-vacacional/">Ofertas Vacacionales</a></li>
+            </ul>
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Nuestros Clientes</li>
+                <li class="contenedor_links"><a class="texto_links" title="Listado de Inmobiliarias en Colombia" href="/inmobiliarias/">Inmobiliarias<br /></a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Listado de Constructoras en Colombia" href="/constructoras/">Constructoras<br /></a></li>
+            </ul>
+        </div>
+        <div class="panel_secundario">
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Site Map Finca Raíz</li>
+            </ul>
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Nuestros Servicios: </li>
+                <li class="contenedor_links"><a class="texto_links" title="Administración de Inmuebles - Particulares" href="/ClientAdmin/Adverts.aspx">Gestión Personal</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Administración de Inmuebles - Inmobiliarias y Constructoras" href="http://profesionales.fincaraiz.com.co/">Gestión Empresarial</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Publicación de Avisos de Finca Raíz" href="/anuncios-clasificados-gratis-publicar-inmueble.aspx">Publicar Inmueble GRATIS*</a></li>
+            </ul>
+            <ul class="contenido_footer_principal_bullets">
+                <li class="titulos_footer">Servicio al Cliente: </li>
+                <li class="contenedor_links"><a class="texto_links" title="Conctactar a fincaraiz.com.co" href="/contactenos.aspx">Contáctenos<br /></a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Consultar Preguntas Frecuentes de los Usuarios" href="/preguntas_frecuentes.aspx">Preguntas frecuentes</a></li>
+                <li class="contenedor_links"><a class="texto_links" title="Consultar Recomendaciones de Seguridad" href="/recomendaciones_seguridad.aspx">Recomendaciones de seguridad</a></li>
+            </ul>
+        </div>
+        <div class="panel_logos_marcas">
+            <div class="producto">Un Producto:<div id="schibsted_logo" style="cursor: pointer" title="www.schibsted.com" onclick="javascript:window.open('http://www.schibsted.com') "></div>
+            </div>
+            <div class="redes_sociales">
+                Síguenos en:<a id="laguia_google" href="https://plus.google.com/+fincaraiz" title="Síguenos en Google+" target="_blank"></a>
+                <div id="laguia_facebook" style="cursor: pointer" title="Síguenos en Facebook" onclick="javascript:window.open('http://www.facebook.com/fincaraiz.com.co') "></div>
+                <div id="laguia_twitter" style="cursor: pointer" title="Síguenos en Twitter" onclick="javascript:window.open('https://twitter.com/fincaraizfr') "></div>
+                <div id="laguia_youtube" style="cursor: pointer" title="Síguenos en Youtube" onclick="javascript:window.open('http://www.youtube.com/c/fincaraiz') "></div>
+            </div>
+            <div class="afiliado">Afiliado a:<a id="laguia_afiliado"></a></div>
+        </div>
+    </div>
+    
+    <div class="contenido_aviso_legal ">
+        * Aplica sólo para personas naturales, máximo dos avisos gratis. Excluye Proyectos Nuevos<br />
+        Fincaraiz.com.co cumple con la ley 527 de 1.999, para todos los efectos ha de entenderse por SISTEMA DE INFORMACIÓN. <a href="/aviso_legal.aspx" class="link_aviso_legal">Aviso legal</a> - <a href="/proteccion_datos.aspx" class="link_aviso_legal">Protección de datos</a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div><iframe src="about:blank" id="epl4iframe" name="epl4iframe" width="0" height="0" style="width: 0px; height: 0px; display: none;"></iframe>
+        <div id="ctl00_scripts">
+        <script type="text/javascript">$(document).ready(function () { if (cCategoryGroup &amp;&amp; cCategoryGroup != '2') { jQuery.ajax({type: 'GET',url: '/PhotoGallery.ashx?find=?ad=30|1||||1||8,9,22,10,24,2|||84||||||||||||||||||||1||||||||',dataType: 'html',success: function (response) { if (response &amp;&amp; typeof response == 'string' &amp;&amp; response.trim().length &gt; 0 &amp;&amp; typeof (sfFind.Location1Id) != 'undefined' &amp;&amp; sfFind.Location1Id == '82') { $('#divPhotoGallery').html('').append(response);  $('div.box_top_Galery').removeAttr('style'); } else { $('#divPhotoGallery').html('');  $('div.box_top_Galery').attr('style', 'display: none !important;'); }}});}});</script><script type="text/javascript">document.getElementById('Parrilla160x600').src='/banner.aspx?id=9&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR=';
+document.getElementById('Parrilla120x240_1').src='/banner.aspx?id=21&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR=';
+document.getElementById('Parrilla120x240_2').src='/banner.aspx?id=22&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR=';
+document.getElementById('Parrilla120x240_3').src='/banner.aspx?id=23&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR=';
+try{document.getElementById('Banner728x90_12').src='/banner.aspx?id=12&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR=&amp;frmId=Banner728x90_12';}catch(e){}
+try{document.getElementById('Banner728x90_19').src='/banner.aspx?id=19&amp;kw_departamentoFR=84&amp;kw_tranidFR=1&amp;kw_catidFR=8&amp;kw_ciudadFR=&amp;kw_palabraFR=&amp;frmId=Banner728x90_19';}catch(e){}
+</script><script type="text/javascript">function OLAPAdvertContact2(advId,originId,typeId){ WSStatistics.Contact(advId,typeId,40,'2018/10/26:13:32:39:459-050-1',originId);}</script><script type="text/javascript">function OlapSearchStats(cat1,loc1,loc2,loc3,loc4,trans){var type='5001';var src='40';var ck='2018/10/26:13:32:39:459-050-1';WSStatistics.SaveFilters(type,src,ck,cat1,loc1,loc2,loc3,loc4,trans);}
+OlapSearchStats('8','84','0','0','','1');</script></div>
+        <div id="ctl00_publicity">
+        </div>
+
+        
+    
+    <!--Div necesarios para las notificaciones-->
+    <div id="AlertContainer"></div>
+    <div id="notification_panel" class="progress_fixed">Procesando</div>
+    <div id="msg" class="msg_black">
+        <div class="msg_content">
+            <span></span>
+        </div>
+    </div>
+    <div id="layer_black"></div>
+
+    <div id="debugDiv" style="color:#fff;background-color:#000;width:800px;height:70px;display:none;position:fixed;bottom:0px;right:0px;z-index:999999;">
+        <textarea rows="4" cols="108" id="txtDebug" value="Debug"></textarea>
+    </div>
+    <script type="text/javascript">
+        function GetBreadCrumbsOk() { }
+        $("#debugDiv").attr("style", "color:#fff;background-color:#000;width:800px;height:70px;display:none;position:fixed;bottom:0px;right:0px;z-index:999999;")
+        
+        function addDebug(text) {
+            $("#txtDebug").text(text + "\n" + $("#txtDebug").text());
+        }
+    </script>
+
+
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" src="https://vars.hotjar.com/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html"></iframe><iframe height="1" width="1" style="display:none" src="//us.creativecdn.com/tags?id=pr_hZsXzDiaQEYXCnsNU30o_listing_&amp;id=pr_hZsXzDiaQEYXCnsNU30o_uid_unknown" id="utag_79"></iframe><div id="ads"></div><div id="criteo-tags-div" style="display: none;"><iframe height="0" width="0" src="//dis.us.criteo.com/dis/dis.aspx?p=35366&amp;cb=14730090489&amp;ref=https%3A%2F%2Fwww.fincaraiz.com.co%2F&amp;sc_r=1366x768&amp;sc_d=24" title="Criteo DIS iframe" style="display: none;"></iframe></div></body></html>

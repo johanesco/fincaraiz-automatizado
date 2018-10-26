@@ -1,0 +1,393 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+<![endif]--><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname"></span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="e5627ecf6cbe206a4b5f1b721d2e4dc7d647ce4a210db2914b95ac3b83e56224.html">Search A Property</a></span>
+                > <span class="truncate-60"><a
+                    href="bc01495bc01116bb0b21a7245bc7877ff23fc72dc6675ca4f08919f77f57e629.html">Search a property </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 26-10-2018 08:58</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Search A Property </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                As a web user
+I want to enter in the fincaraiz.com.co page
+to search a property in offer into Colombia
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;"
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" style="background:default;" href="104e86778c61b4270a19fa6dd7f05671eb0be10515a3780f86ccead031b4bc17.html">Search
+                                    (tag)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></span>
+                            <span class="test-case-title">
+                                <span class="failing-color">Search a property
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+    <div class="story-title">
+        <h3>Scenario:</h3>
+        <div class="scenario">Given that Pedro open the browser in the fincaraiz.com.co page to search a property<br>When he sees the Colombian map and press click on the departament &lt;Department&gt;<br>And he press click on the map from &lt;Zone&gt;<br>And he select the filter order of the property in &lt;order&gt;<br>And Pedro select the property in the position &lt;Position&gt; and see the Photos<br>Then he should see the Description &lt;Location&gt;</div>
+    </div>
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+                        <div class="panel-heading title="Element should be enabled exception: Expected enabled element was not enabled">
+                            Element should be enabled exception: Expected enabled element was not enabled
+                        </div>
+                <div><!-- Stack trace -->
+                    <button type="button" class="btn btn-danger" data-toggle="modal"
+                            data-target="#stacktraceModal-overall">
+                        View details
+                    </button>
+                </div>
+                <!-- Modal -->
+                <div class="modal fade" id="stacktraceModal-overall" tabindex="-1" role="dialog"
+                     aria-labelledby="stacktraceModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal"
+                                        aria-label="Close"><span aria-hidden="true">&times;</span>
+                                </button>
+                                <h4 class="modal-title" id="stacktraceModalLabel">
+                                    net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                    <h5>
+                                        <pre>Expected enabled element was not enabled</pre>
+                                    </h5>
+                                    co.com.fincaraiz.tasks.SelectZone.performAs(SelectZone.java
+                                    :21) <br>
+                                    co.com.fincaraiz.StepsDefinitions.FincaRaizStepsDefinitions.hePressClickOnTheMapFrom(FincaRaizStepsDefinitions.java
+                                    :77) <br>
+                                    cucumber.runner.Runner.runPickle(Runner.java
+                                    :80) <br>
+                                    org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java
+                                    :86) <br>
+                                    org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java
+                                    :38) <br>
+                                    org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java
+                                    :538) <br>
+                                    org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java
+                                    :760) <br>
+                                    org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java
+                                    :460) <br>
+                                    org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java
+                                    :206) <br>
+                            </div>
+
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal"
+                                            aria-label="Close"><span aria-hidden="true">&times;</span>
+                                    </button>
+                                    <h4 class="modal-title" id="stacktraceModalLabel">
+                                        Caused by: org.openqa.selenium.TimeoutException
+                                    </h4>
+                                </div>
+                                <div class="modal-body">
+                                        <pre>Expected condition failed: waiting for By.name: Vichada to be enabled (tried for 5 second(s) with 100 milliseconds interval)</pre>
+                                    <pre>
+                                        co.com.fincaraiz.tasks.SelectZone.performAs(SelectZone.java :21) <br>
+                                        co.com.fincaraiz.StepsDefinitions.FincaRaizStepsDefinitions.hePressClickOnTheMapFrom(FincaRaizStepsDefinitions.java :77) <br>
+                                        cucumber.runner.Runner.runPickle(Runner.java :80) <br>
+                                        org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java :86) <br>
+                                        org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java :38) <br>
+                                        org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java :538) <br>
+                                        org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java :760) <br>
+                                        org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java :460) <br>
+                                        org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java :206) <br>
+                                    </pre>
+                                </div>
+
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">
+                                    Close
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="panel-body">
+                    <a href="pagesource7916634070759022904.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="12fab885a6779bf9804dd21455d97bc6e67cc7f11ac1af336a59de1df1ed68c2.png" title="Search a property #1: {Department=Antioquia, Zone=Envigado, order=Price desc, Position=1, Location=ver mapa}" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Given that Pedro open the browser in the fincaraiz.com.co page to search a property" width="1366"/>
+                <img src="6d8e38710736865ae7269953fbba4584aa926bbdc8f4414a75cf98768dfb3345.png" title="Pedro opens the Open finca raiz home" width="1034"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Then the network conection should be a collection containing 'Vivienda'" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="When he sees the Colombian map and press click on the departament Antioquia" width="1366"/>
+                <img src="cc824c94152d3f3f4dc795c5859c4f1ccc208028b56716dbc8be939f4547ba7d.png" title="When he sees the Colombian map and press click on the departament Antioquia" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="ce61e94ffdbd9e998be7adcaa04da055e839670ea02736fe12cb59c22cba98ad.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="3d0197163213268e027880b06e7837ed7cb4397bc1e185326ce8f9ca7153456c.png" title="And he press click on the map from Envigado" width="1366"/>
+                <img src="4c0d4acf3e73dedcde0649ed3130630097516fd52994c6fc01800a0cdb02a847.png" title="And he press click on the map from Envigado" width="1366"/>
+                <img src="56ba2bb9445dbef71a1cd1828155a10a20a8c581424cca8334f886116b926c2b.png" title="Pedro clicks on Zone" width="1366"/>
+                <img src="c5cc0457d732a65fa596068b31afaa9a2d5fc1f8cee489f7eb77e41b0e8c746c.png" title="Pedro clicks on Zone" width="1366"/>
+                <img src="3c4683536b1a305ae4290969d6c1d294100474c005623f6b3fd7b7a360861204.png" title="And he select the filter order of the property in Price desc" width="1366"/>
+                <img src="b90c455294755c74f8270fe36396a1f70db3e91bdc2d4e7dd1d8703fa6078677.png" title="And he select the filter order of the property in Price desc" width="1366"/>
+                <img src="75a64d5ceff0f3ae50370d3d1da75813e2769f525afe54576bbe2a808eeff5f1.png" title="Pedro selects Price desc in Filter order" width="1366"/>
+                <img src="1703eddd5faf35feb700a2c186819547d36013562b2563cc4139a095040ffde5.png" title="Pedro selects Price desc in Filter order" width="1366"/>
+                <img src="632cd469d88c0f7c15c05f0c6c2ef3aa80d26091a53c26d6da43aad4643e252d.png" title="And Pedro select the property in the position 1 and see the Photos" width="1366"/>
+                <img src="f3c206f8e15683cdbec1789c395ccdc818d10a30c26ff261ca7ceac2dc537ef8.png" title="And Pedro select the property in the position 1 and see the Photos" width="1366"/>
+                <img src="b1918b60aabcd07d442f950369fd643fe8932ebdfc477615a671769871221ddd.png" title="Pedro clicks on Apartment" width="1366"/>
+                <img src="d011d00b9c7b6d85dba0926aa8f3df9776dc1376cf6b98428c26ff9f76af6baf.png" title="Pedro clicks on Apartment" width="1366"/>
+                <img src="d011d00b9c7b6d85dba0926aa8f3df9776dc1376cf6b98428c26ff9f76af6baf.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="df909c9966a37582b5eacb0d1094c1f77d6ea5ef984006f4d4a09df0c0251b0d.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="df909c9966a37582b5eacb0d1094c1f77d6ea5ef984006f4d4a09df0c0251b0d.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="668c70b17662362a155b75dd8c08e9bc37870ebbb2fa5c58f0e7735a1775ae72.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="668c70b17662362a155b75dd8c08e9bc37870ebbb2fa5c58f0e7735a1775ae72.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="2e704d114ebe98a20b594bd8f01e77e9580b37d8fcd98dd65688878c813ea3e9.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="2e704d114ebe98a20b594bd8f01e77e9580b37d8fcd98dd65688878c813ea3e9.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="f3c206f8e15683cdbec1789c395ccdc818d10a30c26ff261ca7ceac2dc537ef8.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="f3c206f8e15683cdbec1789c395ccdc818d10a30c26ff261ca7ceac2dc537ef8.png" title="Then he should see the Description ver mapa" width="1366"/>
+                <img src="12fab885a6779bf9804dd21455d97bc6e67cc7f11ac1af336a59de1df1ed68c2.png" title="Then he should see the Description ver mapa" width="1366"/>
+                <img src="f3c206f8e15683cdbec1789c395ccdc818d10a30c26ff261ca7ceac2dc537ef8.png" title="Then valor result should be a collection containing 'ver mapa'" width="1366"/>
+                <img src="f3c206f8e15683cdbec1789c395ccdc818d10a30c26ff261ca7ceac2dc537ef8.png" title="Pedro clicks on Location of the property" width="1366"/>
+                <img src="12fab885a6779bf9804dd21455d97bc6e67cc7f11ac1af336a59de1df1ed68c2.png" title="Pedro clicks on Location of the property" width="1366"/>
+                <img src="2f68c863d110259fb414664d419fcb394dcff55789950a881a43af2666247589.png" title="Search a property #2: {Department=Cundinamarca, Zone=La Calera, order=Price asc, Position=3, Location=ver mapa}" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Given that Pedro open the browser in the fincaraiz.com.co page to search a property" width="1366"/>
+                <img src="6d8e38710736865ae7269953fbba4584aa926bbdc8f4414a75cf98768dfb3345.png" title="Pedro opens the Open finca raiz home" width="1034"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Then the network conection should be a collection containing 'Vivienda'" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="When he sees the Colombian map and press click on the departament Cundinamarca" width="1366"/>
+                <img src="0686d4e1c63649b4d1f62f8146ebed7f62ecab65d6964eda45bf56644c8cbf44.png" title="When he sees the Colombian map and press click on the departament Cundinamarca" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="52edbcb4cefa11ae2a80d321003ea93e677fe8df234e6cabaf0236437591bce3.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="0686d4e1c63649b4d1f62f8146ebed7f62ecab65d6964eda45bf56644c8cbf44.png" title="And he press click on the map from La Calera" width="1366"/>
+                <img src="7076de4597f0cb2b604b7dcda5010d34f5a1e0b703cd08b556d3c630d32d1b3b.png" title="And he press click on the map from La Calera" width="1366"/>
+                <img src="0686d4e1c63649b4d1f62f8146ebed7f62ecab65d6964eda45bf56644c8cbf44.png" title="Pedro clicks on Zone" width="1366"/>
+                <img src="7076de4597f0cb2b604b7dcda5010d34f5a1e0b703cd08b556d3c630d32d1b3b.png" title="Pedro clicks on Zone" width="1366"/>
+                <img src="7076de4597f0cb2b604b7dcda5010d34f5a1e0b703cd08b556d3c630d32d1b3b.png" title="And he select the filter order of the property in Price asc" width="1366"/>
+                <img src="2ecdf0c0da4af211d1932caaa1054d05c67f6d7e9d31d6d26519dc37b5a979be.png" title="And he select the filter order of the property in Price asc" width="1366"/>
+                <img src="7076de4597f0cb2b604b7dcda5010d34f5a1e0b703cd08b556d3c630d32d1b3b.png" title="Pedro selects Price asc in Filter order" width="1366"/>
+                <img src="654376bab995a4392d4564fa8c658c4df62d0e5079f896c7727bffe09f042e56.png" title="Pedro selects Price asc in Filter order" width="1366"/>
+                <img src="4b843fc2da6d02fb971c8985604414bc8a503fd4670ddb3eeaaa3e0cc3d29129.png" title="And Pedro select the property in the position 3 and see the Photos" width="1366"/>
+                <img src="607b36003dfe7d97e3020ee14b7b462fd80f0df3f9e601d573a109519aa2eb69.png" title="And Pedro select the property in the position 3 and see the Photos" width="1366"/>
+                <img src="4b843fc2da6d02fb971c8985604414bc8a503fd4670ddb3eeaaa3e0cc3d29129.png" title="Pedro clicks on Apartment" width="1366"/>
+                <img src="1070dcc80547bd9cf82a91aed7451836729eceef32b4874c93d94e5eec37187f.png" title="Pedro clicks on Apartment" width="1366"/>
+                <img src="1070dcc80547bd9cf82a91aed7451836729eceef32b4874c93d94e5eec37187f.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="6220caa32c6231106dd97dbc7085dcd394e9cefaf19dfbf2fb7ba102b2d46866.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="6220caa32c6231106dd97dbc7085dcd394e9cefaf19dfbf2fb7ba102b2d46866.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="66b7b05a081a1954b83385cb282cbd43ad8e31beee8f3133ace607f9ed8bf0a8.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="66b7b05a081a1954b83385cb282cbd43ad8e31beee8f3133ace607f9ed8bf0a8.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="2d6215695b2ec87ae26c32d09160fccb30e7e507a1474b0d3680d490e1f792ee.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="2d6215695b2ec87ae26c32d09160fccb30e7e507a1474b0d3680d490e1f792ee.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="607b36003dfe7d97e3020ee14b7b462fd80f0df3f9e601d573a109519aa2eb69.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="607b36003dfe7d97e3020ee14b7b462fd80f0df3f9e601d573a109519aa2eb69.png" title="Then he should see the Description ver mapa" width="1366"/>
+                <img src="2f68c863d110259fb414664d419fcb394dcff55789950a881a43af2666247589.png" title="Then he should see the Description ver mapa" width="1366"/>
+                <img src="607b36003dfe7d97e3020ee14b7b462fd80f0df3f9e601d573a109519aa2eb69.png" title="Then valor result should be a collection containing 'ver mapa'" width="1366"/>
+                <img src="607b36003dfe7d97e3020ee14b7b462fd80f0df3f9e601d573a109519aa2eb69.png" title="Pedro clicks on Location of the property" width="1366"/>
+                <img src="2f68c863d110259fb414664d419fcb394dcff55789950a881a43af2666247589.png" title="Pedro clicks on Location of the property" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Given that Pedro open the browser in the fincaraiz.com.co page to search a property" width="1366"/>
+                <img src="6d8e38710736865ae7269953fbba4584aa926bbdc8f4414a75cf98768dfb3345.png" title="Pedro opens the Open finca raiz home" width="1034"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Then the network conection should be a collection containing 'Vivienda'" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="When he sees the Colombian map and press click on the departament Vichada" width="1366"/>
+                <img src="8c9246e91002ecbdaa1161817a03b557487b185efb61baadf094fd437535b5d3.png" title="When he sees the Colombian map and press click on the departament Vichada" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="8c9246e91002ecbdaa1161817a03b557487b185efb61baadf094fd437535b5d3.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="8c9246e91002ecbdaa1161817a03b557487b185efb61baadf094fd437535b5d3.png" title="And he press click on the map from Vichada" width="1366"/>
+                <img src="8c9246e91002ecbdaa1161817a03b557487b185efb61baadf094fd437535b5d3.png" title="Pedro clicks on Zone" width="1366"/>
+                <img src="8c9246e91002ecbdaa1161817a03b557487b185efb61baadf094fd437535b5d3.png" title="Pedro clicks on Zone" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Given that Pedro open the browser in the fincaraiz.com.co page to search a property" width="1366"/>
+                <img src="6d8e38710736865ae7269953fbba4584aa926bbdc8f4414a75cf98768dfb3345.png" title="Pedro opens the Open finca raiz home" width="1034"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Then the network conection should be a collection containing 'Vivienda'" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="When he sees the Colombian map and press click on the departament Colombia" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="40c5d60a6c4599e9788129bcd414e7ecb684c4e93d168dfc8777039ec6af540e.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="591aff37bcb3b730585ad7621bd3ce155742dcc331012430162d23e51aeb9fc2.png" title="Search a property #5: {Department=Antioquia, Zone=NorOccidente, order=Price desc, Position=44, Location=ver mapa}" width="1366"/>
+                <img src="63a3f1dd14218e9090393e677d37e40b329e0c425eace61e7d6bb3bbc4e1e8e8.png" title="Given that Pedro open the browser in the fincaraiz.com.co page to search a property" width="1366"/>
+                <img src="6d8e38710736865ae7269953fbba4584aa926bbdc8f4414a75cf98768dfb3345.png" title="Pedro opens the Open finca raiz home" width="1034"/>
+                <img src="63a3f1dd14218e9090393e677d37e40b329e0c425eace61e7d6bb3bbc4e1e8e8.png" title="Then the network conection should be a collection containing 'Vivienda'" width="1366"/>
+                <img src="63a3f1dd14218e9090393e677d37e40b329e0c425eace61e7d6bb3bbc4e1e8e8.png" title="When he sees the Colombian map and press click on the departament Antioquia" width="1366"/>
+                <img src="1a7022a1ee6aa25f892467e6942f661fada98b3f7377698821747fba65cded5b.png" title="When he sees the Colombian map and press click on the departament Antioquia" width="1366"/>
+                <img src="63a3f1dd14218e9090393e677d37e40b329e0c425eace61e7d6bb3bbc4e1e8e8.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="2e966539b1fecbcde9421cbc226bbdd162271ccc8badc9894d5fa641ab186cd5.png" title="Pedro clicks on Department" width="1366"/>
+                <img src="31b6c2abc32c4d6f1ef04c7b39ca816d28779c9fe1886f0ab0f3d8cd8ac6720d.png" title="And he press click on the map from NorOccidente" width="1366"/>
+                <img src="62689baa7b5b89c8b41a09c262dd06bff27c17afdec5c05fe5bcef6ff7992096.png" title="And he press click on the map from NorOccidente" width="1366"/>
+                <img src="eff548c4ece55120ad5ac4d73b297cd5104b7921145db30abc3f9c9be768e54e.png" title="Pedro clicks on Zone" width="1366"/>
+                <img src="6ef50a01d4914c911e6c87cd42a9f7987f443c0fa46e398e66b0f3d7e8884975.png" title="Pedro clicks on Zone" width="1366"/>
+                <img src="e9b93069949ac76f2fee6994c640f12ada8cabef3f2d6445ea2678578636a1b6.png" title="And he select the filter order of the property in Price desc" width="1366"/>
+                <img src="ac2d2248edcccf9375b09c893be2c8984a9ce91dcdc7fe0553b0421734b920dd.png" title="And he select the filter order of the property in Price desc" width="1366"/>
+                <img src="d7d70161ce4dd353c7a99a6547903b6cfd690e9a6a5aebc495e466e48e1f077d.png" title="Pedro selects Price desc in Filter order" width="1366"/>
+                <img src="ac2d2248edcccf9375b09c893be2c8984a9ce91dcdc7fe0553b0421734b920dd.png" title="Pedro selects Price desc in Filter order" width="1366"/>
+                <img src="d1ff99af490ed82325305e70cd165bb25508f9f07341fb4c012048b306b9b007.png" title="And Pedro select the property in the position 44 and see the Photos" width="1366"/>
+                <img src="8462e1e53c5a118395f6212061e7ea698de1a732d3b0e70175ac2c46a3289d95.png" title="And Pedro select the property in the position 44 and see the Photos" width="1366"/>
+                <img src="b131cc3a93e811628dda37f79938b547238b38ce04ee4d2d9eed9457c6e803e7.png" title="Pedro clicks on Apartment" width="1366"/>
+                <img src="79a4e61ec5ada874d08f29dd5cf8777bc02b0a7604886e99d43083acf3756ccc.png" title="Pedro clicks on Apartment" width="1366"/>
+                <img src="79a4e61ec5ada874d08f29dd5cf8777bc02b0a7604886e99d43083acf3756ccc.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="42b3450fa16e1c17672e136c01c3b7a64c17d7bf7ebd69c5df0c0839bc6a4cd2.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="42b3450fa16e1c17672e136c01c3b7a64c17d7bf7ebd69c5df0c0839bc6a4cd2.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="b4466639fb57926c746cab09fa74331fa0d1b8aa777cb5ad6f9071bf9e96772c.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="b4466639fb57926c746cab09fa74331fa0d1b8aa777cb5ad6f9071bf9e96772c.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="a2361a6bfc7ae6554749939ec714b245785b682e97d2396404072af12d584d04.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="a2361a6bfc7ae6554749939ec714b245785b682e97d2396404072af12d584d04.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="8462e1e53c5a118395f6212061e7ea698de1a732d3b0e70175ac2c46a3289d95.png" title="Pedro clicks on Change image" width="1366"/>
+                <img src="8462e1e53c5a118395f6212061e7ea698de1a732d3b0e70175ac2c46a3289d95.png" title="Then he should see the Description ver mapa" width="1366"/>
+                <img src="591aff37bcb3b730585ad7621bd3ce155742dcc331012430162d23e51aeb9fc2.png" title="Then he should see the Description ver mapa" width="1366"/>
+                <img src="8462e1e53c5a118395f6212061e7ea698de1a732d3b0e70175ac2c46a3289d95.png" title="Then valor result should be a collection containing 'ver mapa'" width="1366"/>
+                <img src="8462e1e53c5a118395f6212061e7ea698de1a732d3b0e70175ac2c46a3289d95.png" title="Pedro clicks on Location of the property" width="1366"/>
+                <img src="028c9175597263c973cd031fbbefc1e87e12248f7848b3652ef6f01e35000af8.png" title="Pedro clicks on Location of the property: <span class='failing-color'>FAILURE</span>" width="1366"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 1.9.9</span>
+</div>
+</body>
+</html>
